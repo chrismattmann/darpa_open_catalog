@@ -1,8 +1,10 @@
 [
     {
-        "DARPA Program":"AA",
+        "DARPA Program":"APAC",
         "Program Teams":[
-            "Allure Security Technology, Inc."
+            "MIT",
+            "Kestrel Institute",
+            "GITI"
         ],
         "Contributors":[
             ""
@@ -10,17 +12,18 @@
         "Sub-contractors":[
             ""
         ],
-        "Software":"RUU Active Authentication Sensor for Windows",
+        "Software":"DroidSafe",
         "Internal Link":"",
         "External Link":"",
-        "Public Code Repo":"anna.weeks@us.af.mil",
+        "Public Code Repo":"https://github.com/mgordon/droidsafe.git",
         "Instructional Material":"",
-        "Description":"Software for collecting user OS interactions, generating a discriminative user model, and taking appropriate masquerader mitigation measures for the Windows platform.",
+        "Description":"The DroidSafe static analysis tool produces a security summary of Android applications to help trusted parties rapidly understand sensitive behaviors of a untrusted application.  The core analysis is flow, object, event, and value sensitive.  The results are presented in a graphic user interface tied to source code for inspection. (Java/Python)",
         "License":[
-            "GPR"
+            "LGPL"
         ],
         "Languages":[
-            ""
+            "Java",
+            "Python"
         ],
         "Platform Requirements":[
             ""
@@ -44,15 +47,15 @@
             ""
         ],
         "Categories":[
-            "Identity Management"
+            "Infrastructure"
         ],
         "New Date":"",
         "Update Date":""
     },
     {
-        "DARPA Program":"AA",
+        "DARPA Program":"APAC",
         "Program Teams":[
-            "Allure Security Technology, Inc."
+            "BAE Systems"
         ],
         "Contributors":[
             ""
@@ -60,17 +63,18 @@
         "Sub-contractors":[
             ""
         ],
-        "Software":"Decoy Document Distributor Tool for Windows",
+        "Software":"Droid Reasoning, Analysis, and Protection Engine (DRAPE)",
         "Internal Link":"",
         "External Link":"",
-        "Public Code Repo":"anna.weeks@us.af.mil",
+        "Public Code Repo":"Not Ready for Release",
         "Instructional Material":"",
-        "Description":"Software for distributing deceptive content to Windows computers to serve as tripwires to aid in sensor authentication decisions.",
+        "Description":"DRAPE brings together concolic execution, taint analysis and execution path clustering to analyze Android applications. DRAPE will elicit stealthy malware that is triggered under specific conditions, and will provide the analyst with a characterization of those conditions. (Java)",
+        "Internal Code Repo":"",
         "License":[
-            "GPR"
+            ""
         ],
         "Languages":[
-            ""
+            "Java"
         ],
         "Platform Requirements":[
             ""
@@ -94,15 +98,18 @@
             ""
         ],
         "Categories":[
-            "Identity Management"
+            "Sofware Analysis",
+            "Dynamic Analysis",
+            "Android",
+            "Malware"
         ],
         "New Date":"",
         "Update Date":""
     },
     {
-        "DARPA Program":"AA",
+        "DARPA Program":"APAC",
         "Program Teams":[
-            "Allure Security Technology, Inc."
+            "University of Washington"
         ],
         "Contributors":[
             ""
@@ -110,17 +117,18 @@
         "Sub-contractors":[
             ""
         ],
-        "Software":"RUU Active Authentication Sensor for Mac",
+        "Software":"Checker Framework",
         "Internal Link":"",
-        "External Link":"",
-        "Public Code Repo":"anna.weeks@us.af.mil",
+        "External Link":"http://types.cs.washington.edu/checker-framework",
+        "Public Code Repo":"https://code.google.com/p/checker-framework/",
         "Instructional Material":"",
-        "Description":"Software for collecting user OS interactions, generating a discriminative user model, and taking appropriate masquerader mitigation measures for Mac devices.",
+        "Description":"The Checker Framework enhances Java's type system to make it more powerful and useful. This lets software developers detect and prevent errors in their Java programs. (Java)",
+        "Internal Code Repo":"",
         "License":[
-            "GPR"
+            "GPLv2"
         ],
         "Languages":[
-            ""
+            "Java"
         ],
         "Platform Requirements":[
             ""
@@ -144,15 +152,15 @@
             ""
         ],
         "Categories":[
-            "Identity Management"
+            "Static analysis"
         ],
         "New Date":"",
         "Update Date":""
     },
     {
-        "DARPA Program":"AA",
+        "DARPA Program":"APAC",
         "Program Teams":[
-            "Allure Security Technology, Inc."
+            "University of Washington"
         ],
         "Contributors":[
             ""
@@ -160,17 +168,18 @@
         "Sub-contractors":[
             ""
         ],
-        "Software":"Decoy Document Distributor Tool for Mac",
+        "Software":"Type annotations compiler",
         "Internal Link":"",
-        "External Link":"",
-        "Public Code Repo":"anna.weeks@us.af.mil",
+        "External Link":"http://types.cs.washington.edu/jsr308",
+        "Public Code Repo":"https://code.google.com/p/jsr308-langtools/",
         "Instructional Material":"",
-        "Description":"Software for distributing deceptive content to Mac machines to serve as tripwires to aid in sensor authentication decisions.",
+        "Description":"Java 8 will include support for type annotations. The Type Annotations compiler (also called the JSR 308 compiler) is fully backward-compatible. You can use it in place of javac (for Java 8) without any change in behavior, except that you will be permitted to write annotations in comments. This lets you write type annotations, but keep your code compilable by Java 4/5/6/7 compilers. (Java)",
+        "Internal Code Repo":"",
         "License":[
-            "GPR"
+            "GPLv2"
         ],
         "Languages":[
-            ""
+            "Java"
         ],
         "Platform Requirements":[
             ""
@@ -194,15 +203,16 @@
             ""
         ],
         "Categories":[
-            "Identity Management"
+            "Static analysis",
+            "Compiler"
         ],
         "New Date":"",
         "Update Date":""
     },
     {
-        "DARPA Program":"AA",
+        "DARPA Program":"APAC",
         "Program Teams":[
-            "BehavioSec"
+            "University of Washington"
         ],
         "Contributors":[
             ""
@@ -210,112 +220,13 @@
         "Sub-contractors":[
             ""
         ],
-        "Software":"Data-Collector-Software",
+        "Software":"Annotation File Utilities",
         "Internal Link":"",
-        "External Link":"",
-        "Public Code Repo":"anna.weeks@us.af.mil",
+        "External Link":"http://types.cs.washington.edu/annotation-file-utilities/",
+        "Public Code Repo":"https://code.google.com/p/annotation-tools/",
         "Instructional Material":"",
-        "Description":"Behavioral data gatherer for Microsoft Windows desktop computers.",
-        "License":[
-            "GPR"
-        ],
-        "Languages":[
-            ""
-        ],
-        "Platform Requirements":[
-            ""
-        ],
-        "Dependent modules":[
-            ""
-        ],
-        "Dependent module URLs":[
-            ""
-        ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Identity Management"
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
-    {
-        "DARPA Program":"AA",
-        "Program Teams":[
-            "New York Institute of Technology"
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
-        "Software":"Keystroke, Pausality, and Linguistic Feature Extractors for Typing Data",
-        "Internal Link":"",
-        "External Link":"",
-        "Public Code Repo":"anna.weeks@us.af.mil",
-        "Instructional Material":"",
-        "Description":"The software implements feature extractor modules for typing data used in AA Phase 1 effort. The code is useful only when Louisiana Tech's typing data is available. Because Louisiana Tech has the ownership of the data, we cannot provide the data.",
-        "License":[
-            "GPR"
-        ],
-        "Languages":[
-            ""
-        ],
-        "Platform Requirements":[
-            ""
-        ],
-        "Dependent modules":[
-            ""
-        ],
-        "Dependent module URLs":[
-            ""
-        ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Identity Management"
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
-    {
-        "DARPA Program":"AA",
-        "Program Teams":[
-            "University of Maryland"
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
-        "Software":"Screen Web Interface Visual Analysis Software",
-        "Internal Link":"",
-        "External Link":"http://www.vizweb.org/",
-        "Public Code Repo":"https://bitbucket.org/rmardiko/vizweb.git",
-        "Instructional Material":"",
-        "Description":"This is software for computing visual features from screen shots. (Java)",
+        "Description":"Tools for reading annotations from, and inserting type annotations in, Java source and class files. (Java)",
+        "Internal Code Repo":"",
         "License":[
             "MIT"
         ],
@@ -344,7 +255,60 @@
             ""
         ],
         "Categories":[
-            "Identity Management"
+            "Java Annotation Tool"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"APAC",
+        "Program Teams":[
+            "University of Washington"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"SPARTA Toolset",
+        "Internal Link":"",
+        "External Link":"http://types.cs.washington.edu/sparta/",
+        "Public Code Repo":"http://types.cs.washington.edu/sparta/release/",
+        "Instructional Material":"",
+        "Description":"SPARTA aims to detect certain types of malware in Android applications, or to verify that the app contains no such malware. SPARTA's verification approach is type-checking: the developer states a security property, annotates the source code with type qualifiers that express that security property, then runs a pluggable type-checker to verify that the type qualifiers are right (and thus that the program satisfies the security property). (Java)",
+        "Internal Code Repo":"",
+        "License":[
+            "GPLv2"
+        ],
+        "Languages":[
+            "Java"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Static analysis",
+            "Android",
+            "Security"
         ],
         "New Date":"",
         "Update Date":""
