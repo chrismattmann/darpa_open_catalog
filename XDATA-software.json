@@ -3995,5 +3995,62 @@
         ],
         "New Date":"",
         "Update Date":""
-    }
+    }, 
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Harvard",
+            "Kitware, Inc."
+        ],
+        "Contributors":[
+            "Harvard Medical School", "Harvard Kennedy School of Government"
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"UpSet",
+        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Visual+Design+Environment-Kitware+Home",
+        "External Link":"http://vcg.github.io/upset",
+        "Public Code Repo":"https://github.com/vcg/upset/",
+        "Instructional Material":"https://github.com/vcg/upset/",
+        "Stats":"",
+        "Description":"Understanding relationships between sets is an important analysis task that has received widespread attention in the visualization community. The major challenge in this context is the combinatorial explosion of the number of set intersections if the number of sets exceeds a trivial threshold. To address this, we introduce UpSet, a novel visualization technique for the quantitative analysis of sets, their intersections, and aggregates of intersections.
+        
+UpSet is focused on creating task-driven aggregates, communicating the size and properties of aggregates and intersections, and a duality between the visualization of the elements in a dataset and their set membership. UpSet visualizes set intersections in a matrix layout and introduces aggregates based on groupings and queries. The matrix layout enables the effective representation of associated data, such as the number of elements in the aggregates and intersections, as well as additional summary statistics derived from subset or element attributes.
+
+Sorting according to various measures enables a task-driven analysis of relevant intersections and aggregates. The elements represented in the sets and their associated attributes are visualized in a separate view. Queries based on containment in specific intersections, aggregates or driven by attribute filters are propagated between both views. UpSet also introduces several advanced visual encodings and interaction methods to overcome the problems of varying scales and to address scalability.",
+        "Internal Code Repo":"tools\\visualizations\\kitware\\xdata-apps",
+        "License":[
+            "MIT"
+        ],
+        "Languages":[
+            "JavaScript"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Visualization"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
 ]
