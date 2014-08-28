@@ -2,58 +2,6 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "Aptima, Inc."
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
-        "Software":"Network Query by Example",
-        "Internal Link":"",
-        "External Link":"https://github.com/Aptima/pattern-matching",
-        "Public Code Repo":"https://github.com/Aptima/pattern-matching.git",
-        "Instructional Material":"2014-07",
-        "Stats":"pattern-matching",
-        "Description":"Hadoop MapReduce-over-Hive based implementation of network query by example utilizing attributed network pattern matching. (Java)",
-        "Internal Code Repo":"",
-        "License":[
-            "ALv2"
-        ],
-        "Languages":[
-            "Java"
-        ],
-        "Platform Requirements":[
-            ""
-        ],
-        "Dependent modules":[
-            ""
-        ],
-        "Dependent module URLs":[
-            ""
-        ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Analytics"
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
-    {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
             "Boeing",
             "University of Pittsburgh"
         ],
@@ -104,6 +52,58 @@
         "New Date":"",
         "Update Date":""
     },
+	{
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Aptima, Inc."
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Network Query by Example",
+        "Internal Link":"",
+        "External Link":"https://github.com/Aptima/pattern-matching",
+        "Public Code Repo":"https://github.com/Aptima/pattern-matching.git",
+        "Instructional Material":"Not Available",
+        "Stats":"pattern-matching",
+        "Description":"Hadoop MapReduce-over-Hive based implementation of network query by example utilizing attributed network pattern matching. (Java)",
+        "Internal Code Repo":"",
+        "License":[
+            "ALv2"
+        ],
+        "Languages":[
+            "Java"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Analytics"
+        ],
+        "New Date":"",
+        "Update Date":"20140820"
+    },
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
@@ -115,13 +115,13 @@
         "Sub-contractors":[
             ""
         ],
-        "Software":"Support Distribution Machines",
+        "Software":"skl-groups",
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=6717624",
-        "External Link":"https://github.com/dougalsutherland/py-sdm",
-        "Public Code Repo":"https://github.com/dougalsutherland/py-sdm.git",
-        "Instructional Material":"2014-07",
-        "Stats":"py-sdm",
-        "Description":"Python implementation of the nonparametric divergence estimators described by Barnabas Poczos, Liang Xiong, Jeff Schneider (2011). Nonparametric divergence estimation with applications to machine learning on distributions. Uncertainty in Artificial Intelligence. ( http://autonlab.org/autonweb/20287.html ) and also their use in support vector machines, as described by Dougal J. Sutherland, Liang Xiong, Barnabas Poczos, Jeff Schneider (2012). Kernels on Sample Sets via Nonparametric Divergence Estimates. ( http://arxiv.org/abs/1202.0302 ). (Python)",
+        "External Link":"https://github.com/dougalsutherland/skl-groups/",
+        "Public Code Repo":"https://github.com/dougalsutherland/skl-groups.git",
+        "Instructional Material":"https://dougalsutherland.github.io/skl-groups/",
+        "Stats":"skl-groups",
+        "Description":"A package extending the Python machine learning toolkit scikit-learn with support for operating on sets (\"groups\") as features.",
         "Internal Code Repo":"tools\\analytics\\cmu",
         "License":[
             "BSD"
@@ -171,7 +171,7 @@
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Continuum+Analytics+Home+Page",
         "External Link":"https://github.com/ContinuumIO/blaze",
         "Public Code Repo":"https://github.com/ContinuumIO/blaze.git",
-        "Instructional Material":"2014-07",
+        "Instructional Material":"http://blaze.pydata.org/docs/",
         "Stats":"blaze",
         "Description":"Blaze is the next-generation of NumPy. It is designed as a foundational set of abstractions on which to build out-of-core and distributed algorithms over a wide variety of data sources and to extend the structure of NumPy itself. Blaze allows easy composition of low level computation kernels (C, Fortran, Numba) to form complex data transformations on large datasets. In Blaze, computations are described in a high-level language (Python) but executed on a low-level runtime (outside of Python), enabling the easy mapping of high-level expertise to data without sacrificing low-level performance. Blaze aims to bring Python and NumPy into the massively-multicore arena, allowing it to leverage many CPU and GPU cores across computers, virtual machines and cloud services. (Python)",
         "Internal Code Repo":"tools\\analytics\\continuum\\blaze",
@@ -206,7 +206,7 @@
             "Infrastructure"
         ],
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140620"
     },
     {
         "DARPA Program":"XDATA",
@@ -223,7 +223,7 @@
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Continuum+Analytics+Home+Page",
         "External Link":"https://github.com/numba/numba",
         "Public Code Repo":"https://github.com/numba/numba.git",
-        "Instructional Material":"2014-07",
+        "Instructional Material":"http://numba.pydata.org/",
         "Stats":"numba",
         "Description":"Numba is an Open Source NumPy-aware optimizing compiler for Python sponsored by Continuum Analytics, Inc. It uses the LLVM compiler infrastructure to compile Python syntax to machine code.<br/><br/>It is aware of NumPy arrays as typed memory regions and so can speed-up code using NumPy arrays. Other, less well-typed code is translated to Python C-API calls effectively removing the \"interpreter\" but not removing the dynamic indirection.<br/><br/>Numba is also not a tracing just in time (JIT) compiler. It compiles your code before it runs either using run-time type information or type information you provide in the decorator.<br/><br/>Numba is a mechanism for producing machine code from Python syntax and typed data structures such as those that exist in NumPy. (Python)",
         "Internal Code Repo":"tools\\analytics\\continuum\\numba",
@@ -258,7 +258,7 @@
             "Infrastructure"
         ],
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140620"
     },
     {
         "DARPA Program":"XDATA",
@@ -275,7 +275,7 @@
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Continuum+Analytics+Home+Page",
         "External Link":"http://bokeh.pydata.org",
         "Public Code Repo":"https://github.com/ContinuumIO/bokeh.git",
-        "Instructional Material":"2014-07",
+        "Instructional Material":"http://bokeh.pydata.org",
         "Stats":"bokeh",
         "Description":"Bokeh (pronounced bo-Kay or bo-Kuh) is a Python interactive visualization library for large datasets that natively uses the latest web technologies. Its goal is to provide elegant, concise construction of novel graphics in the style of Protovis/D3, while delivering high-performance interactivity over large data to thin clients. (Python/JavaScript/Coffeescript)",
         "Internal Code Repo":"tools/visualization/continuum/bokeh; tools/visualization/continuum/bokehjs",
@@ -312,167 +312,7 @@
             "Visualization"
         ],
         "New Date":"",
-        "Update Date":""
-    },
-    {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
-            "Continuum Analytics",
-            "Indiana University"
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
-        "Software":"Abstract Rendering",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Continuum+Analytics+Home+Page",
-        "External Link":"http://www.github.com/JosephCottam/AbstractRendering",
-        "Public Code Repo":"https://github.com/JosephCottam/AbstractRendering.git",
-        "Instructional Material":"2014-07",
-        "Stats":"AbstractRendering",
-        "Description":"Information visualization rests on the idea that a meaningful relationship can be drawn between pixels and data. This is most often mediated by geometric entities (such as circles, squares and text) but always involves pixels eventually to display. In most systems, the pixels are tucked away under levels of abstraction in the rendering system. Abstract Rendering takes the opposite approach: expose the pixels and gain powerful pixel-level control. This pixel-level power is a complement to many existing visualization techniques. It is an elaboration on rendering, not an analytic or projection step, so it can be used as an epilogue to many existing techniques. In standard rendering, geometric objects are projected to an image and represented on that image's discrete pixels. The source space is an abstract canvas that contains logically continuous geometric primitives and the target space is an image that contains discrete colors. Abstract Rendering fits between these two states. It introduces a discretization of the data at the pixel-level, but not necessarily all the way to colors. This enables many pixel-level concerns to be efficiently and concisely captured. (Java)",
-        "Internal Code Repo":"/tools/visualization/continuum/AbstractRendering/",
-        "License":[
-            "BSD"
-        ],
-        "Languages":[
-            "Java"
-        ],
-        "Platform Requirements":[
-            ""
-        ],
-        "Dependent modules":[
-            ""
-        ],
-        "Dependent module URLs":[
-            ""
-        ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Visualization"
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
-    {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
-            "Continuum Analytics"
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
-        "Software":"CDX",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Continuum+Analytics+Home+Page",
-        "External Link":"https://github.com/ContinuumIO/cdx",
-        "Public Code Repo":"https://github.com/ContinuumIO/cdx.git",
-        "Instructional Material":"2014-07",
-        "Stats":"cdx",
-        "Description":"Software to visualize the structure of large or complex datasets / produce guides that help users or algorithms gauge the quality of various kinds of graphs & plots. (JavaScript/Coffeescript/Python)",
-        "Internal Code Repo":"/tools/visualization/continuum/",
-        "License":[
-            "BSD"
-        ],
-        "Languages":[
-            "JavaScript",
-            "Coffeescript",
-            "Python"
-        ],
-        "Platform Requirements":[
-            ""
-        ],
-        "Dependent modules":[
-            ""
-        ],
-        "Dependent module URLs":[
-            ""
-        ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Visualization"
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
-    {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
-            "Continuum Analytics",
-            "Indiana University"
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
-        "Software":"Stencil",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Continuum+Analytics+Home+Page",
-        "External Link":"https://github.com/JosephCottam/Stencil",
-        "Public Code Repo":"https://github.com/JosephCottam/Stencil.git",
-        "Instructional Material":"2014-07",
-        "Stats":"Stencil",
-        "Description":"Stencil is a grammar-based approach to visualization specification at a higher-level. (Clojure)",
-        "Internal Code Repo":"tools\\visualizations\\continuum\\Stencil",
-        "License":[
-            "BSD"
-        ],
-        "Languages":[
-            "Clojure"
-        ],
-        "Platform Requirements":[
-            ""
-        ],
-        "Dependent modules":[
-            ""
-        ],
-        "Dependent module URLs":[
-            ""
-        ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Visualization"
-        ],
-        "New Date":"",
-        "Update Date":""
+        "Update Date":"20140620"
     },
     {
         "DARPA Program":"XDATA",
@@ -521,7 +361,59 @@
             ""
         ],
         "Categories":[
-            "Analytics"
+            "Visualization"
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+        {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Data Tactics Corporation"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Darpa Open Catalog Generator",
+        "Internal Link":"",
+        "External Link":"https://github.com/ericwhyne/open-catalog-generator",
+        "Public Code Repo":"https://github.com/ericwhyne/open-catalog-generator.git",
+        "Instructional Material":"2014-07",
+        "Stats":"open-catalog-generator",
+        "Description":"Code and templates for building the DARPA open catalog as hosted on darpa.mil.",
+        "Internal Code Repo":"",
+        "License":[
+            "ALv2"
+        ],
+        "Languages":[
+            "Python"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Visualization"
         ],
         "New Date":"",
         "Update Date":""
@@ -542,8 +434,8 @@
         "External Link":"http://www.gocircuit.org/",
         "Public Code Repo":"https://github.com/gocircuit/circuit.git",
         "Instructional Material":"2014-07",
-        "Stats":"",
-        "Description":"Go Circuit reduces the human development and sustenance costs of complex massively-scaled systems nearly to the level of their single-process counterparts. It is a combination of proven ideas from the Erlang ecosystem of distributed embedded devices and Go's ecosystem of Internet application development. Go Circuit extends the reach of Go's linguistic environment to multi-host/multi-process applications. (Go)",
+        "Stats":"circuit",
+        "Description":"Circuit reduces the human development and sustenance costs of complex massively-scaled systems nearly to the level of their single-process counterparts. It is a combination of proven ideas from the Erlang ecosystem of distributed embedded devices and Go's ecosystem of Internet application development. Circuit extends the reach of Go's linguistic environment to multi-host/multi-process applications. (Go)",
         "Internal Code Repo":"",
         "License":[
             "ALv2"
@@ -576,7 +468,7 @@
             "Infrastructure"
         ],
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140612"
     },
     {
         "DARPA Program":"XDATA",
@@ -589,13 +481,13 @@
         "Sub-contractors":[
             ""
         ],
-        "Software":"libNMF: A high-performance library for nonnegative matrix factorization and hierarchical clustering",
+        "Software":"SmallK: A high-performance library for nonnegative matrix factorization and hierarchical clustering",
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=7274597",
-        "External Link":"",
-        "Public Code Repo":"Not Ready for Release",
-        "Instructional Material":"2014-07",
-        "Stats":"",
-        "Description":"LibNMF is a high-performance, parallel library for nonnegative matrix factorization on both dense and sparse matrices written in C++. Implementations of several different NMF algorithms are provided, including multiplicative updating, hierarchical alternating least squares, nonnegative least squares with block principal pivoting, and a new rank2 algorithm. The library provides an implementation of hierarchical clustering based on the rank2 NMF algorithm.",
+        "External Link":"https://github.com/smallk/smallk.github.io.git",
+        "Public Code Repo":"https://github.com/smallk/smallk.github.io.git",
+        "Instructional Material":"http://smallk.github.io/",
+        "Stats":"smallk.github.io",
+        "Description":"SmallK is a high-performance, parallel library for nonnegative matrix factorization on both dense and sparse matrices written in C++. Implementations of several different NMF algorithms are provided, including multiplicative updating, hierarchical alternating least squares, nonnegative least squares with block principal pivoting, and a new rank2 algorithm. The library provides an implementation of hierarchical clustering based on the rank2 NMF algorithm. (C++)",
         "Internal Code Repo":"tools\\analytics\\gatech\\_x000D_\n",
         "License":[
             "ALv2"
@@ -647,7 +539,7 @@
         "Public Code Repo":"https://github.com/giantoak/MMPP.git",
         "Instructional Material":"http://giantoak.github.io/MMPP_Tutorial/",
         "Stats":"MMPP",
-        "Description":"R-implementation of Markov Modulated Poisson Process for unsupervised event detection in time series of counts data. (R)",
+        "Description":"Markov Modulated Poisson Process for Event Detection allows R users to accurately detect unusual events and anomalies in time series of counts. (R)",
         "Internal Code Repo":"",
         "License":[
             "GPLv2"
@@ -695,10 +587,10 @@
         ],
         "Software":"SKYLARK: Randomized Numerical Linear Algebra and ML",
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=2752591",
-        "External Link":"http://xdata-skylark.github.io/",
-        "Public Code Repo":"2014-05-15",
+        "External Link":"http://xdata-skylark.github.io/libskylark/",
+        "Public Code Repo":"https://github.com/xdata-skylark/libskylark.git",
         "Instructional Material":"2014-07",
-        "Stats":"",
+        "Stats":"libskylark",
         "Description":"SKYLARK implements Numerical Linear Algebra (NLA) kernels based on sketching for distributed computing platforms.  Sketching reduces dimensionality through randomization, and includes Johnson-Lindenstrauss random projection (JL); a faster version of JL based on fast transform techniques; sparse techniques that can be applied in time proportional to the number of nonzero matrix entries; and methods for approximating kernel functions and Gram matrices arising in nonlinear statistical modeling problems. We have a library of such sketching techniques, built using MPI in C++ and callable from Python, and are applying the library to regression, low-rank approximation,   and kernel-based machine learning tasks, among other problems. (C++/Python)",
         "Internal Code Repo":"tools\\analytics\\ibm\\skylark",
         "License":[
@@ -751,7 +643,7 @@
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=7274668",
         "External Link":"",
         "Public Code Repo":"http://code.google.com/p/svnmimir/source/checkout",
-        "Instructional Material":"2014-07",
+        "Instructional Material":"Not Available",
         "Stats":"immersive_body-based_interactions",
         "Description":"Provides innovative interaction techniques to address human-computer interaction challenges posed by Big Data.  Examples include:<br>* Wiggle Interaction Technique: user-induced motion to speed visual search.<br>* Immersive Tablet Based Viewers: low-cost 3D virtual reality fly-throughs of data sets.<br>* Multi-touch interfaces: browsing/querying multi-attribute and geospatial data, hosted by SOLR.<br>* Tablet-based visualization controller: eye-free rapid interaction with visualizations.",
         "Internal Code Repo":"tools\\visualizations\\usc-ict",
@@ -786,6 +678,110 @@
             "Visualization"
         ],
         "New Date":"",
+        "Update Date":"20140820"
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "USC"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Parallel Louvain Community",
+        "Internal Link":"",
+        "External Link":"https://github.com/usc-cloud/parallel-louvain-modularity",
+        "Public Code Repo":"https://github.com/usc-cloud/parallel-louvain-modularity.git",
+        "Instructional Material":"https://github.com/usc-cloud/parallel-louvain-modularity/blob/master/README.md",
+        "Stats":"parallel-louvain-modularity",
+        "Description":"Fast MPI based parallel Louvain community detection algorithm easily mappable to Map Reduce.",
+        "Internal Code Repo":"",
+        "License":[
+            "ALv2"
+        ],
+        "Languages":[
+            ""
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Analytics"
+        ],
+        "New Date":"20140613",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "USC"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Parallel High Betweenness Nodes identification",
+        "Internal Link":"",
+        "External Link":"https://github.com/usc-cloud/parallel-high-betweenness-centrality",
+        "Public Code Repo":"https://github.com/usc-cloud/parallel-high-betweenness-centrality.git",
+        "Instructional Material":"https://github.com/usc-cloud/parallel-high-betweenness-centrality/blob/master/README.md",
+        "Stats":"parallel-high-betweenness-centrality",
+        "Description":"Fast MPI based high betweenness centrality identification algorithm extendible to cloud graph processing platforms such as Giraph++ or GoFFish.",
+        "Internal Code Repo":"",
+        "License":[
+            "ALv2"
+        ],
+        "Languages":[
+            ""
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Analytics"
+        ],
+        "New Date":"20140613",
         "Update Date":""
     },
     {
@@ -803,15 +799,17 @@
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Johns+Hopkins+University",
         "External Link":"https://github.com/igraph/xdata-igraph/",
         "Public Code Repo":"https://github.com/igraph/xdata-igraph.git",
-        "Instructional Material":"2014-07",
+        "Instructional Material":"http://igraph.org",
         "Stats":"xdata-igraph",
-        "Description":"igraph provides a fast generation of large graphs, fast approximate computation of local graph invariants, fast parallelizable graph embedding. API and Web-service for batch processing graphs across formats. (C)",
+        "Description":"igraph is a collection of network analysis tools with the emphasis on efficiency, portability and ease of use. igraph can be programmed in GNU R, Python and C/C++.",
         "Internal Code Repo":"tools\\analytics\\jhu",
         "License":[
             "GPLv2"
         ],
         "Languages":[
-            "C"
+            "C",
+            "R",
+            "Python"
         ],
         "Platform Requirements":[
             ""
@@ -948,7 +946,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "Harvard",
+            "Harvard University",
             "Kitware, Inc."
         ],
         "Contributors":[
@@ -1001,7 +999,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "Harvard",
+            "Harvard University",
             "Kitware, Inc."
         ],
         "Contributors":[
@@ -1013,9 +1011,9 @@
         "Software":"LineUp Web",
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Visual+Design+Environment-Kitware+Home",
         "External Link":"http://lineup.caleydo.org",
-        "Public Code Repo":"2014-06",
+        "Public Code Repo":"https://github.com/Caleydo/lineup.js.git",
         "Instructional Material":"2014-07",
-        "Stats":"",
+        "Stats":"lineup.js",
         "Description":"LineUpWeb is the web version of the novel and scalable visualization technique. This interactive technique supports the ranking of items based on multiple heterogeneous attributes with different scales and semantics. It enables users to interactively combine attributes and flexibly refine parameters to explore the effect of changes in the attribute combination.",
         "Internal Code Repo":"tools\\visualizations\\kitware\\xdata-apps",
         "License":[
@@ -1065,8 +1063,8 @@
         "Software":"Visualization Widgets",
         "External Link":"https://github.com/piim/xdata-visualization-widgets",
         "Public Code Repo":"https://github.com/piim/xdata-visualization-widgets.git",
-        "Instructional Material":"2014-07",
-        "Stats":"",
+        "Instructional Material":"Not Available",
+        "Stats":"xdata-visualization-widgets",
         "Description":"These visualizations were created to demonstrate the type of standalone visualization widgets that might compliment a composite dashboard display for a decision-maker. They are built using D3 and leverage relevant APIs to show the latest available data. (JavaScript)",
         "Internal Code Repo":"tools\\visualizations\\new-school",
         "License":[
@@ -1100,12 +1098,12 @@
             "Visualization"
         ],
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140820"
     },
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "Stanford",
+            "Stanford University",
             "University of Washington",
             "Kitware, Inc."
         ],
@@ -1118,9 +1116,9 @@
         "Software":"Lyra",
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Visual+Design+Environment-Kitware+Home",
         "External Link":"http://idl.cs.washington.edu/projects/lyra",
-        "Public Code Repo":"https://github.com/uwdata/lyra",
+        "Public Code Repo":"https://github.com/uwdata/lyra.git",
         "Instructional Material":"2014-07",
-        "Stats":"",
+        "Stats":"lyra",
         "Description":"Lyra is an interactive environment that makes custom visualization design accessible to a broader audience. With Lyra, designers map data to the properties of graphical marks to author expressive visualization designs without writing code. Marks can be moved, rotated and resized using handles; relatively positioned using connectors; and parameterized by data fields using property drop zones. Lyra also provides a data pipeline interface for iterative, visual specification of data transformations and layout algorithms. Visualizations created with Lyra are represented as specifications in Vega, a declarative visualization grammar that enables sharing and reuse. (JavaScript)",
         "Internal Code Repo":"tools\\visualizations\\kitware\\xdata-apps",
         "License":[
@@ -1419,32 +1417,38 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "MDA Information Systems, Inc.",
-            "Jet Propulsion Laboratory",
-            "USC/Information Sciences Institute"
+            "Jet Propulsion Laboratory"
         ],
         "Contributors":[
-            ""
+            "Dr. Chris A. Mattmann", 
+            "Mr. Paul Ramirez",
+            "Mr. Maziyar Boustani", 
+            "Ms. Shakeh Khudikyan",
+            "Mr. Mike Joyce",
+            "Mr. Rishi Verma",
+            "Dr. Lewis John McGibbney",
+            "Mr. Tyler Palsulich" 
         ],
         "Sub-contractors":[
             ""
         ],
-        "Software":"OODT",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=6717613",
+        "Software":"Apache OODT",
+        "Internal Link":"https://xd-web-proxy.data-tactics-corp.com/wiki/display/XSW2/NASA+JPL+Wiki",
         "External Link":"http://oodt.apache.org/",
         "Public Code Repo":"https://svn.apache.org/repos/asf/oodt/",
-        "Instructional Material":"2014-07",
-        "Stats":"oodt",
+        "Instructional Material":"https://cwiki.apache.org/confluence/display/OODT/Home",
+        "Stats":"",
         "Description":"APACHE OODT enables transparent access to distributed resources, data discovery and query optimization, and distributed processing and virtual archives. OODT provides software architecture that enables models for information representation, solutions to knowledge capture problems, unification of technology, data, and metadata. (Java)",
         "Internal Code Repo":"tools\\utilities\\oodt",
         "License":[
             "ALv2"
         ],
         "Languages":[
-            "Java"
+            "Java",
+            "Python"
         ],
         "Platform Requirements":[
-            ""
+            "*nix Environment"
         ],
         "Dependent modules":[
             ""
@@ -1453,13 +1457,65 @@
             ""
         ],
         "Component modules":[
-            ""
+            "agility",
+            "app",
+            "balance",
+            "catalog",
+            "cli",
+            "commons",
+            "core",
+            "crawler",
+            "curator",
+            "filemgr",
+            "grid",
+            "metadata",
+            "mvn",
+            "opendapps",
+            "pcs",
+            "pge",
+            "product",
+            "profile",
+            "protocol",
+            "pushpull",
+            "resource",
+            "sso",
+            "tools",
+            "webapp",
+            "workflow",
+            "xmlps",
+            "xmlquery"
         ],
         "Component module URLs":[
-            ""
+            "http://svn.apache.org/repos/asf/oodt/trunk/agility/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/app/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/balance/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/catalog/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/cli/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/commons/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/core/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/crawler/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/curator/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/filemgr/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/grid/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/metadata/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/mvn/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/opendapps/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/pcs/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/pge/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/product/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/profile/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/protocol/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/pushpull/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/resource/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/sso/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/tools/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/webapp/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/workflow/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/xmlps/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/xmlquery/"
         ],
         "Industry":[
-            ""
+            "Federally Funded Research and Development Centre"
         ],
         "Functionality":[
             ""
@@ -1468,17 +1524,16 @@
             "Infrastructure"
         ],
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140610"
     },
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "MDA Information Systems, Inc.",
-            "Jet Propulsion Laboratory",
             "USC/Information Sciences Institute"
         ],
         "Contributors":[
-            ""
+            "Dr. Yolanda Gil",
+            "Mr. Varun Ratnakar"
         ],
         "Sub-contractors":[
             ""
@@ -1487,7 +1542,7 @@
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=6717613",
         "External Link":"http://www.wings-workflows.org/",
         "Public Code Repo":"https://github.com/varunratnakar/wings.git",
-        "Instructional Material":"2014-07",
+        "Instructional Material":"Not Available",
         "Stats":"wings",
         "Description":"WINGS provides a semantic workflow system that assists scientists with the design of computational experiments. A unique feature of WINGS is that its workflow representations incorporate semantic constraints about datasets and workflow components, and are used to create and validate workflows and to generate metadata for new data products. WINGS submits workflows to execution frameworks such as Pegasus and OODT to run workflows at large scale in distributed resources. (Java/JavaScript)",
         "Internal Code Repo":"tools\\utilities\\wings\\",
@@ -1523,6 +1578,336 @@
             "Infrastructure"
         ],
         "New Date":"",
+        "Update Date":"20140820"
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Jet Propulsion Laboratory"
+        ],
+        "Contributors":[
+            "Dr. Chris A. Mattmann",
+            "Mr. Paul Ramirez",
+            "Mr. Maziyar Boustani",
+            "Ms. Shakeh Khudikyan",
+            "Mr. Mike Joyce",
+            "Mr. Rishi Verma",
+            "Dr. Lewis John McGibbney"
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Apache Tika",
+        "Internal Link":"https://xd-web-proxy.data-tactics-corp.com/wiki/display/XSW2/NASA+JPL+Wiki",
+        "External Link":"http://tika.apache.org",
+        "Public Code Repo":"http://svn.apache.org/repos/asf/tika/trunk/",
+        "Instructional Material":"http://tika.apache.org/1.5/gettingstarted.html",
+        "Stats":"",
+        "Description":"The Apache Tika(TM) toolkit detects and extracts metadata and structured text content from various documents using existing parser libraries.",
+        "Internal Code Repo":"tools\\utilities\\tika",
+        "License":[
+            "ALv2"
+        ],
+        "Languages":[
+            "Java"
+        ],
+        "Platform Requirements":[
+            "Java Virtual Machine"
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            "tika-app",
+            "tika-bundle",
+            "tika-core",
+            "tika-dotnet",
+            "tika-java7",
+            "tika-parent",
+            "tika-parsers",
+            "tika-serialization",
+            "tika-server",
+            "tika-translate",
+            "tika-xmp"
+        ],
+        "Component module URLs":[
+            "http://svn.apache.org/repos/asf/tika/trunk/tika-app/",
+            "http://svn.apache.org/repos/asf/tika/trunk/tika-bundle/",
+            "http://svn.apache.org/repos/asf/tika/trunk/tika-core/",
+            "http://svn.apache.org/repos/asf/tika/trunk/tika-dotnet/",
+            "http://svn.apache.org/repos/asf/tika/trunk/tika-java7/",
+            "http://svn.apache.org/repos/asf/tika/trunk/tika-parent/",
+            "http://svn.apache.org/repos/asf/tika/trunk/tika-parsers/",
+            "http://svn.apache.org/repos/asf/tika/trunk/tika-serialization/",
+            "http://svn.apache.org/repos/asf/tika/trunk/tika-server/",
+            "http://svn.apache.org/repos/asf/tika/trunk/tika-translate/",
+            "http://svn.apache.org/repos/asf/tika/trunk/tika-xmp/"
+        ],
+        "Industry":[
+            "Federally Funded Research and Development Centre"
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Infrastructure"
+        ],
+        "New Date":"20140610",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Jet Propulsion Laboratory"
+        ],
+        "Contributors":[
+            "Dr. Chris A. Mattmann",
+            "Mr. Paul Ramirez",
+            "Mr. Maziyar Boustani",
+            "Ms. Shakeh Khudikyan",
+            "Mr. Mike Joyce",
+            "Mr. Rishi Verma",
+            "Dr. Lewis John McGibbney"
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Apache Gora",
+        "Internal Link":"https://xd-web-proxy.data-tactics-corp.com/wiki/display/XSW2/NASA+JPL+Wiki",
+        "External Link":"http://gora.apache.org",
+        "Public Code Repo":"https://git-wip-us.apache.org/repos/asf/gora.git",
+        "Instructional Material":"http://gora.apache.org/current/quickstart.html",
+        "Stats":"gora",
+        "Description":"The Apache Gora open source framework provides an in-memory data model and persistence for big data. Gora supports persisting to column stores, key value stores, document stores and RDBMSs, and analyzing the data with extensive Apache Hadoop MapReduce support.",
+        "Internal Code Repo":"tools\\utilities\\gora",
+        "License":[
+            "ALv2"
+        ],
+        "Languages":[
+            "Java"
+        ],
+        "Platform Requirements":[
+            "Java Virtual Machine"
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            "gora-compiler",
+            "gora-compiler-cli",
+            "gora-core",
+            "gora-accumulo",
+            "gora-cassandra",
+            "gora-hbase",
+            "gora-lucene",
+            "gora-mongodb",
+            "gora-solr",
+            "gora-dynamodb"
+        ],
+        "Component module URLs":[
+            "https://git-wip-us.apache.org/repos/asf?p=gora.git;a=tree;f=gora-accumulo;hb=HEAD",
+            "https://git-wip-us.apache.org/repos/asf?p=gora.git;a=tree;f=gora-cassandra;hb=HEAD",
+            "https://git-wip-us.apache.org/repos/asf?p=gora.git;a=tree;f=gora-compiler-cli;hb=HEAD",
+            "https://git-wip-us.apache.org/repos/asf?p=gora.git;a=tree;f=gora-compiler;hb=HEAD",
+            "https://git-wip-us.apache.org/repos/asf?p=gora.git;a=tree;f=gora-core;hb=HEAD",
+            "https://git-wip-us.apache.org/repos/asf?p=gora.git;a=tree;f=gora-dynamodb;hb=HEAD",
+            "https://git-wip-us.apache.org/repos/asf?p=gora.git;a=tree;f=gora-hbase;hb=HEAD",
+            "https://git-wip-us.apache.org/repos/asf?p=gora.git;a=tree;f=gora-mongodb;hb=HEAD",
+            "https://git-wip-us.apache.org/repos/asf?p=gora.git;a=tree;f=gora-solr;hb=HEAD",
+            "https://git-wip-us.apache.org/repos/asf?p=gora.git;a=tree;f=gora-sql;hb=HEAD"
+        ],
+        "Industry":[
+            "Federally Funded Research and Development Centre"
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Infrastructure"
+        ],
+        "New Date":"",
+        "Update Date":"20140613"
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Jet Propulsion Laboratory"
+        ],
+        "Contributors":[
+            "Dr. Chris A. Mattmann",
+            "Mr. Paul Ramirez",
+            "Mr. Maziyar Boustani",
+            "Ms. Shakeh Khudikyan",
+            "Mr. Mike Joyce",
+            "Mr. Rishi Verma",
+            "Dr. Lewis John McGibbney"
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Apache Nutch",
+        "Internal Link":"https://xd-web-proxy.data-tactics-corp.com/wiki/display/XSW2/NASA+JPL+Wiki",
+        "External Link":"http://nutch.apache.org/",
+        "Public Code Repo":"http://svn.apache.org/repos/asf/nutch/",
+        "Instructional Material":"http://wiki.apache.org/nutch/#Tutorials",
+        "Stats":"",
+        "Description":"A large scale web crawler framework that implements the search engine architecture as originally defined by Brin and Page. Nutch was started by Doug Cutting and is the predecessor to the Apache Hadoop technology. It includes parsers, a protocol framework, language detection, indexing capabilities and language and query models to fully implement a search engine.",
+        "Internal Code Repo":"tools\\utilities\\nutch",
+        "License":[
+            "ALv2"
+        ],
+        "Languages":[
+            "Java"
+        ],
+        "Platform Requirements":[
+            "Java Virtual Machine"
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            "nutch"
+        ],
+        "Component module URLs":[
+            "https://svn.apache.org/repos/asf/nutch/"
+        ],
+        "Industry":[
+            "Federally Funded Research and Development Centre"
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Infrastructure"
+        ],
+        "New Date":"20140625",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Jet Propulsion Laboratory"
+        ],
+        "Contributors":[
+            "Dr. Chris A. Mattmann",
+            "Mr. Paul Ramirez",
+            "Mr. Maziyar Boustani",
+            "Ms. Shakeh Khudikyan",
+            "Mr. Mike Joyce",
+            "Mr. Rishi Verma",
+            "Dr. Lewis John McGibbney"
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"DRAT",
+        "Internal Link":"https://xd-web-proxy.data-tactics-corp.com/wiki/display/XSW2/NASA+JPL+Wiki",
+        "External Link":"http://github.com/chrismattmann/drat",
+        "Public Code Repo":"https://github.com/chrismattmann/drat.git",
+        "Instructional Material":"https://github.com/chrismattmann/drat/blob/master/README.md",
+        "Stats":"drat",
+        "Description":"A distributed, parallelized (Map Reduce) wrapper around Apache RAT to allow it to complete on large code repositories of multiple file types where Apache RAT hangs forever.",
+        "Internal Code Repo":"tools\\utilities\\drat",
+        "License":[
+            "ALv2"
+        ],
+        "Languages":[
+            "Java",
+            "Python"
+        ],
+        "Platform Requirements":[
+            "Java Virtual Machine"
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            "drat"
+        ],
+        "Component module URLs":[
+            "https://github.com/chrismattmann/drat/"
+        ],
+        "Industry":[
+            "Federally Funded Research and Development Centre"
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Infrastructure"
+        ],
+        "New Date":"20140612",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Jet Propulsion Laboratory"
+        ],
+        "Contributors":[
+            "Dr. Chris A. Mattmann",
+            "Mr. Paul Ramirez",
+            "Mr. Maziyar Boustani",
+            "Ms. Shakeh Khudikyan",
+            "Mr. Mike Joyce",
+            "Mr. Rishi Verma",
+            "Dr. Lewis John McGibbney"
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Khooshe",
+        "Internal Link":"https://xd-web-proxy.data-tactics-corp.com/wiki/display/XSW2/NASA+JPL+Wiki",
+        "External Link":"https://github.com/MBoustani/Khooshe",
+        "Public Code Repo":"https://github.com/MBoustani/Khooshe.git",
+        "Instructional Material":"https://github.com/MBoustani/Khooshe/wiki",
+        "Stats":"Khooshe",
+        "Description":"A Big Data-Points Visualization Tool",
+        "Internal Code Repo":"tools\\utilities\\khooshe",
+        "License":[
+            "ALv2"
+        ],
+        "Languages":[
+            "Python"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            "Numpy",
+            "Scipy"
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            "Khooshe"
+        ],
+        "Component module URLs":[
+            "https://github.com/MBoustani/Khooshe"
+        ],
+        "Industry":[
+            "Federally Funded Research and Development Centre"
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Visualization"
+        ],
+        "New Date":"20140805",
         "Update Date":""
     },
     {
@@ -1538,11 +1923,9 @@
         ],
         "Software":"Query By Example (Graph QuBE)",
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/MIT+Lincoln+Laboratory",
-        "External Link":"https://github.com/mitll/graph-qube",
-        "Public Code Repo":"https://github.com/mitll/graph-qube",
         "Instructional Material":"2014-07",
-        "Stats":"graph-qube",
-        "Description":"Query-by-Example (Graph QuBE) on dynamic transaction graphs.",
+        "Stats":"",
+        "Description":"Graph QuBE is a tool which enables efficient pattern-of-behavior search in data containing entities transacting over time.",
         "Internal Code Repo":"tools\\analytics\\mit-LL\\graph-qube",
         "License":[
             "ALv2"
@@ -1575,6 +1958,61 @@
             "Analytics"
         ],
         "New Date":"",
+        "Update Date":"20140709"
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "MIT-LL"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"VizLinc",
+        "Internal Link":"",
+		"External Link":"https://github.com/mitll/vizlinc",
+        "Public Code Repo":"https://github.com/mitll/vizlinc.git",
+        "Instructional Material":"2014-07",
+        "Stats":"vizlinc",
+        "Description":"Vizlinc is a visual analytics platform that takes as input a corpus of text documents, extracts named entities (people, locations, and organizations) and the relations between those entities from the documents, and allows a user to explore the information contained in the documents from both a high-level corpus view point and with respect to more narrow queries.(Java/Groovy)",
+        "Internal Code Repo":"",
+        "License":[
+            "GPL",
+			"CDDL"
+        ],
+        "Languages":[
+            "Java",
+			"Groovy"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            "Visual Analytics",
+			"Corpus Exploration"
+        ],
+        "Categories":[
+            "Visualization"
+        ],
+        "New Date":"20140701",
         "Update Date":""
     },
     {
@@ -1649,7 +2087,7 @@
         "Public Code Repo":"https://github.com/mitll/topic-clustering.git",
         "Instructional Material":"2014-07",
         "Stats":"topic-clustering",
-        "Description":"Probabilistic Latent Semantic Analysis (pLSA) Topic Modeling.",
+        "Description":"This tool takes a set of text documents, filters by a given language, and then produces documents clustered by topic.  The method used is Probabilistic Latent Semantic Analysis (PLSA). (Python)",
         "Internal Code Repo":"tools\\analytics\\mit-LL",
         "License":[
             "ALv2"
@@ -1682,7 +2120,7 @@
             "Analytics"
         ],
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140809"
     },
     {
         "DARPA Program":"XDATA",
@@ -1752,7 +2190,7 @@
         "External Link":"https://github.com/mitll/MITIE",
         "Public Code Repo":"https://github.com/mitll/MITIE.git",
         "Instructional Material":"2014-07",
-        "Stats":"",
+        "Stats":"MITIE",
         "Description":"Trainable named entity extractor (NER) and relation extractor. (C)",
         "Internal Code Repo":"tools\\analytics\\mit-LL\\tpoic",
         "License":[
@@ -2117,7 +2555,7 @@
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Raytheon+BBN+Technologies",
         "External Link":"https://github.com/plamenbbn/XDATA",
         "Public Code Repo":"https://github.com/plamenbbn/XDATA.git",
-        "Instructional Material":"2014-07",
+        "Instructional Material":"Not Available",
         "Stats":"XDATA",
         "Description":"Patterns in Near-Real Time will take any corpus as input and quantify the strength of the query match to a SME-based process model, represent process model as a Directed Acyclic Graph (DAG), and then search and score potential matches. (Python)",
         "Internal Code Repo":"tools\\analytics\\bbn\\graph-matching",
@@ -2152,7 +2590,7 @@
             "Analytics"
         ],
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140820"
     },
     {
         "DARPA Program":"XDATA",
@@ -2169,7 +2607,7 @@
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Raytheon+BBN+Technologies",
         "External Link":"https://github.com/plamenbbn/XDATA",
         "Public Code Repo":"https://github.com/plamenbbn/XDATA.git",
-        "Instructional Material":"2014-07",
+        "Instructional Material":"Not Available",
         "Stats":"XDATA",
         "Description":"Network Inference of Link Strength will take any text corpus as input and quantify the strength of connections between any pair of entities. Link strength probabilities are computed via shortest path. (Python)",
         "Internal Code Repo":"tools\\analytics\\bbn\\textstructure",
@@ -2204,7 +2642,7 @@
             "Analytics"
         ],
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140820"
     },
     {
         "DARPA Program":"XDATA",
@@ -2221,7 +2659,7 @@
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Royal+Caliber+LLC%2C+VertexAPI+for+GPU+Graph+Analytics",
         "External Link":"https://github.com/RoyalCaliber/vertexAPI2",
         "Public Code Repo":"https://github.com/RoyalCaliber/vertexAPI2.git",
-        "Instructional Material":"2014-07",
+        "Instructional Material":"Not Available",
         "Stats":"vertexAPI2",
         "Description":"Allows users to express graph algorithms as a series of Gather-Apply-Scatter (GAS) steps similar to GraphLab.  Runs these vertex programs using a single or multiple GPUs - demonstrates a large speedup over GraphLab. (C++)",
         "Internal Code Repo":"tools\\analytics\\RoyalCaliber",
@@ -2256,7 +2694,7 @@
             "Analytics"
         ],
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140820"
     },
     {
         "DARPA Program":"XDATA",
@@ -2313,582 +2751,408 @@
         "Update Date":""
     },
     {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
-            "Scientific Systems Company, Inc.",
-            "MIT",
-            "University of Louisville"
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
-        "Software":"Crosscat",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=7274588",
-        "External Link":"http://probcomp.csail.mit.edu/crosscat/",
-        "Public Code Repo":"https://github.com/mit-probabilistic-computing-project/crosscat.git",
-        "Instructional Material":"2014-07",
-        "Stats":"crosscat",
-        "Description":"CrossCat is a domain-general, Bayesian method for analyzing high-dimensional data tables. CrossCat estimates the full joint distribution over the variables in the table from the data via approximate inference in a hierarchical, nonparametric Bayesian model, and provides efficient samplers for every conditional distribution. CrossCat combines strengths of nonparametric mixture modeling and Bayesian network structure learning: it can model any joint distribution given enough data by positing latent variables, but also discovers independencies between the observable variables. (Python)",
-        "Internal Code Repo":"tools\\analytics\\ssci-mit-ul\\tabular-predDB",
-        "License":[
-            "ALv2"
-        ],
-        "Languages":[
-            "Python"
-        ],
-        "Platform Requirements":[
-            ""
-        ],
-        "Dependent modules":[
-            ""
-        ],
-        "Dependent module URLs":[
-            ""
-        ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Analytics"
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
-    {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
+        "DARPA Program": "XDATA",
+        "Program Teams": [
             "Sotera Defense Solutions, Inc."
         ],
-        "Contributors":[
+        "Contributors": [
             ""
         ],
-        "Sub-contractors":[
+        "Sub-contractors": [
             ""
         ],
-        "Software":"Zephyr",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
-        "External Link":"http://github.com/Sotera/zephyr",
-        "Public Code Repo":"http://github.com/Sotera/zephyr",
-        "Instructional Material":"2014-07",
-        "Stats":"zephyr",
-        "Description":"Zephyr is a big data, platform agnostic ETL API, with Hadoop MapReduce, Storm, and other big data bindings. (Java)",
-        "Internal Code Repo":"tools\\utilities\\sotera\\zephyr; tools\\utilties\\sotera\\zephyr-xdata-ingest",
-        "License":[
+        "Software": "Zephyr",
+        "Internal Link": "https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
+        "External Link": "http://sotera.github.io/zephyr/",
+        "Public Code Repo": "http://github.com/Sotera/zephyr",
+        "Instructional Material": "2014-07",
+        "Stats": "zephyr",
+        "Description": "Zephyr is a big data, platform agnostic Extract-Transform-Load (ETL) API, with Hadoop MapReduce, Storm, and other big data bindings.",
+        "Internal Code Repo": "tools\\utilities\\sotera\\zephyr; tools\\utilties\\sotera\\zephyr-xdata-ingest",
+        "License": [
             "ALv2"
         ],
-        "Languages":[
+        "Languages": [
             "Java"
         ],
-        "Platform Requirements":[
+        "Platform Requirements": [
             ""
         ],
-        "Dependent modules":[
+        "Dependent modules": [
+            "Zephyr Sample Project"
+        ],
+        "Dependent module URLs": [
+            "http://sotera.github.io/zephyr/Examples/"
+        ],
+        "Component modules": [
+            "GIT",
+            "Gradle",
+            "Java 7",
+            "Cloudera CDH 5.0.0 (MRv1) OR CDH 4.x.x (MRv1)"
+        ],
+        "Component module URLs": [
+            "http://git-scm.com/",
+            "http://www.gradle.org/",
+            "https://www.java.com/en/download/",
+            "http://www.cloudera.com/content/cloudera/en/products-and-services/cdh.html"
+        ],
+        "Industry": [
             ""
         ],
-        "Dependent module URLs":[
+        "Functionality": [
             ""
         ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
+        "Categories": [
             "Infrastructure"
         ],
-        "New Date":"",
-        "Update Date":""
+        "New Date": "",
+        "Update Date": "20140708"
     },
     {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
-            "Sotera Defense Solutions, Inc."
+        "DARPA Program": "XDATA",
+        "Program Teams": [
+          "Sotera Defense Solutions, Inc."
         ],
-        "Contributors":[
-            ""
+        "Contributors": [
+          ""
         ],
-        "Sub-contractors":[
-            ""
+        "Sub-contractors": [
+          ""
         ],
-        "Software":"Page Rank",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
-        "External Link":"https://github.com/Sotera/page-rank",
-        "Public Code Repo":"https://github.com/Sotera/page-rank.git",
-        "Instructional Material":"2014-07",
-        "Stats":"page-rank",
-        "Description":"Sotera Page Rank is a Giraph/Hadoop implementation of a distributed version of the Page Rank algorithm. (Java)",
-        "Internal Code Repo":"tools\\utilities\\sotera\\",
-        "License":[
+        "Software": "Aggregate Micro Paths",
+        "Internal Link": "https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
+        "External Link": "http://sotera.github.io/aggregate-micro-paths/",
+        "Public Code Repo": "https://github.com/Sotera/aggregate-micro-paths.git",
+        "Instructional Material": "2014-07",
+        "Stats": "aggregate-micro-paths",
+        "Description": "An analytic to help infer movement patterns from large amounts of geospatial-temporal data in a cloud environment.",
+        "Internal Code Repo": "tools\\analytics\\sotera\\SparkMicroPath\\",
+        "License": [
             "ALv2"
         ],
-        "Languages":[
-            "Java"
-        ],
-        "Platform Requirements":[
-            ""
-        ],
-        "Dependent modules":[
-            ""
-        ],
-        "Dependent module URLs":[
-            ""
-        ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Analytics"
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
-    {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
-            "Sotera Defense Solutions, Inc."
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
-        "Software":"High Betweenness Set Extraction",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
-        "External Link":"https://github.com/Sotera/high-betweenness-set-extraction",
-        "Public Code Repo":"https://github.com/Sotera/high-betweenness-set-extraction.git",
-        "Instructional Material":"2014-07",
-        "Stats":"high-betweenness-set-extraction",
-        "Description":"Betweenness Centrality is a useful property when searching for critical nodes in a network. The exact calculation of betweenness is however computationally expensive, which leaves us with the need for approximate methods. If you want to discover nodes that are most import for connectivity in a large network this project is for you. (Java)",
-        "Internal Code Repo":"",
-        "License":[
-            "ALv2"
-        ],
-        "Languages":[
-            "Java"
-        ],
-        "Platform Requirements":[
-            ""
-        ],
-        "Dependent modules":[
-            ""
-        ],
-        "Dependent module URLs":[
-            ""
-        ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Analytics"
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
-    {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
-            "Sotera Defense Solutions, Inc."
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
-        "Software":"Louvain Modularity",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
-        "External Link":"http://sotera.github.io/distributed-louvain-modularity/",
-        "Public Code Repo":"https://github.com/Sotera/distributed-louvain-modularity.git",
-        "Instructional Material":"2014-07",
-        "Stats":"distributed-louvain-modularity",
-        "Description":"Giraph/Hadoop implementation of a distributed version of the Louvain community detection algorithm. (Java)",
-        "Internal Code Repo":"tools\\analytics\\sotera\\LouvainModularity\\giraph_1.0\\",
-        "License":[
-            "ALv2"
-        ],
-        "Languages":[
-            "Java"
-        ],
-        "Platform Requirements":[
-            ""
-        ],
-        "Dependent modules":[
-            ""
-        ],
-        "Dependent module URLs":[
-            ""
-        ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Analytics"
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
-    {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
-            "Sotera Defense Solutions, Inc."
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
-        "Software":"Spark MicroPath",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
-        "External Link":"http://sotera.github.io/aggregate-micro-paths/",
-        "Public Code Repo":"https://github.com/Sotera/aggregate-micro-paths.git",
-        "Instructional Material":"2014-07",
-        "Stats":"",
-        "Description":"The Spark implementation of the micropath analytic. (Scala/Python)",
-        "Internal Code Repo":"tools\\analytics\\sotera\\SparkMicroPath\\",
-        "License":[
-            "ALv2"
-        ],
-        "Languages":[
-            "Scala",
-            "Python"
-        ],
-        "Platform Requirements":[
-            ""
-        ],
-        "Dependent modules":[
-            ""
-        ],
-        "Dependent module URLs":[
-            ""
-        ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Analytics"
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
-    {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
-            "Sotera Defense Solutions, Inc."
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
-        "Software":"ARIMA",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
-        "External Link":"https://github.com/Sotera/rhipe-arima",
-        "Public Code Repo":"https://github.com/Sotera/rhipe-arima",
-        "Instructional Material":"2014-07",
-        "Stats":"rhipe-arima",
-        "Description":"Hive and RHIPE implementation of an ARIMA analytic. (R)",
-        "Internal Code Repo":"tools\\analytics\\sotera\\arima\\",
-        "License":[
-            "ALv2"
-        ],
-        "Languages":[
-            "R"
-        ],
-        "Platform Requirements":[
-            ""
-        ],
-        "Dependent modules":[
-            ""
-        ],
-        "Dependent module URLs":[
-            ""
-        ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Analytics"
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
-    {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
-            "Sotera Defense Solutions, Inc."
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
-        "Software":" Leaf Compression",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
-        "External Link":"https://github.com/Sotera/leaf-compression",
-        "Public Code Repo":"https://github.com/Sotera/leaf-compression.git",
-        "Instructional Material":"2014-07",
-        "Stats":"leaf-compression",
-        "Description":"Recursive algorithm to remove nodes from a network where degree centrality is 1. (Python/Java)",
-        "Internal Code Repo":"tools\\analytics\\sotera\\leaf_compression",
-        "License":[
-            "ALv2"
-        ],
-        "Languages":[
+        "Languages": [
             "Python",
-            "Java"
-        ],
-        "Platform Requirements":[
-            ""
-        ],
-        "Dependent modules":[
-            ""
-        ],
-        "Dependent module URLs":[
-            ""
-        ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Analytics"
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
-    {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
-            "Sotera Defense Solutions, Inc."
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
-        "Software":"Correlation Approximation",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
-        "External Link":"https://github.com/Sotera/correlation-approximation",
-        "Public Code Repo":"https://github.com/Sotera/correlation-approximation",
-        "Instructional Material":"2014-07",
-        "Stats":"correlation-approximation",
-        "Description":"Spark implementation of an algorithm to find highly correlated vectors using an approximation algorithm. (Scala)",
-        "Internal Code Repo":"tools\\analytics\\sotera\\CorrelationApproximation",
-        "License":[
-            "ALv2"
-        ],
-        "Languages":[
             "Scala"
         ],
-        "Platform Requirements":[
+        "Platform Requirements": [
             ""
         ],
-        "Dependent modules":[
+        "Dependent modules": [
+            "Track Communities"
+        ],
+        "Dependent module URLs": [
+            "https://github.com/Sotera/track-communities"
+        ],
+        "Component modules": [
+            "Cloudera CDH",
+            "Apache Hive"
+        ],
+        "Component module URLs": [
+            "http://www.cloudera.com/content/cloudera/en/products-and-services/cdh.html",
+            "http://hive.apache.org/"
+        ],
+        "Industry": [
             ""
         ],
-        "Dependent module URLs":[
+        "Functionality": [
             ""
         ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
+        "Categories": [
             "Analytics"
         ],
-        "New Date":"",
-        "Update Date":""
+        "New Date": "",
+        "Update Date": "20140708"
     },
     {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
-            "Stanford University - Boyd"
+        "DARPA Program": "XDATA",
+        "Program Teams": [
+            "Sotera Defense Solutions, Inc."
         ],
-        "Contributors":[
+        "Contributors": [
             ""
         ],
-        "Sub-contractors":[
+        "Sub-contractors": [
             ""
         ],
-        "Software":"QCML (Quadratic Cone Modeling Language)",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Stanford+Convex+Optimization+Group",
-        "External Link":"https://github.com/cvxgrp/qcml",
-        "Public Code Repo":"https://github.com/cvxgrp/qcml.git",
-        "Instructional Material":"2014-07",
-        "Stats":"qcml",
-        "Description":"Seamless transition from prototyping to code generation. Enable ease and expressiveness of convex optimization across scales with little change in code. (Pyhton/Matlab/C)",
-        "Internal Code Repo":"tools\\analytics\\stanford-b\\qcml",
-        "License":[
+        "Software": "RHIPE ARIMA",
+        "Internal Link": "https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
+        "External Link": "https://github.com/Sotera/rhipe-arima",
+        "Public Code Repo": "https://github.com/Sotera/rhipe-arima",
+        "Instructional Material": "2014-07",
+        "Stats": "rhipe-arima",
+        "Description": "This implementation of the ARIMA (AutoRegressive Integrated Moving \nAverage) algorithm is based on R, Hadoop, and the RHIPE (Hree-pay) framework.",
+        "Internal Code Repo": "tools\\analytics\\sotera\\arima\\",
+        "License": [
             "ALv2"
         ],
-        "Languages":[
+        "Languages": [
+            "R"
+        ],
+        "Platform Requirements": [
+            ""
+        ],
+        "Dependent modules": [
+            ""
+        ],
+        "Dependent module URLs": [
+            ""
+        ],
+        "Component modules": [
+            "Cloudera CDH",
+            "RHIPE",
+            "R"
+        ],
+        "Component module URLs": [
+            "http://www.cloudera.com/content/cloudera/en/products-and-services/cdh.html",
+            "http://www.datadr.org/install.html",
+            "http://www.r-project.org/"
+        ],
+        "Industry": [
+            ""
+        ],
+        "Functionality": [
+            ""
+        ],
+        "Categories": [
+            "Analytics"
+        ],
+        "New Date": "",
+        "Update Date": "20140708"
+    },
+    {
+        "DARPA Program": "XDATA",
+        "Program Teams": [
+            "Sotera Defense Solutions, Inc."
+        ],
+        "Contributors": [
+            ""
+        ],
+        "Sub-contractors": [
+            ""
+        ],
+        "Software": "Correlation Approximation",
+        "Internal Link": "https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
+        "External Link": "https://github.com/Sotera/correlation-approximation",
+        "Public Code Repo": "https://github.com/Sotera/correlation-approximation",
+        "Instructional Material": "2014-07",
+        "Stats": "correlation-approximation",
+        "Description": "Spark implementation of the Google Correlate algorithm to quickly find highly correlated vectors in huge datasets.",
+        "Internal Code Repo": "tools\\analytics\\sotera\\CorrelationApproximation",
+        "License": [
+            "ALv2"
+        ],
+        "Languages": [
+            "Scala"
+        ],
+        "Platform Requirements": [
+            ""
+        ],
+        "Dependent modules": [
+            ""
+        ],
+        "Dependent module URLs": [
+            ""
+        ],
+        "Component modules": [
+            "Gradle",
+            "Cloudera CDH",
+            "Spark"
+        ],
+        "Component module URLs": [
+            "http://www.gradle.org/",
+            "http://www.cloudera.com/content/cloudera/en/products-and-services/cdh.html",
+            "http://http//spark.incubator.apache.org/"
+        ],
+        "Industry": [
+            ""
+        ],
+        "Functionality": [
+            ""
+        ],
+        "Categories": [
+            "Analytics"
+        ],
+        "New Date": "",
+        "Update Date": "20140624"
+    },
+    {
+        "DARPA Program": "XDATA",
+        "Program Teams": [
+            "Sotera Defense Solutions, Inc."
+        ],
+        "Contributors": [
+            ""
+        ],
+        "Sub-contractors": [
+            ""
+        ],
+        "Software": "Graphene",
+        "Internal Link": "https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
+        "External Link": "https://github.com/Sotera/graphene",
+        "Public Code Repo": "https://github.com/Sotera/graphene",
+        "Instructional Material": "2014-07",
+        "Stats": "graphene",
+        "Description": "Graphene is a web-based application that provides combined query, visualization, link identification and analysis, and other analytic capabilities within a single system.  It allows a user the ability to intelligently search structured data from multiple data sources and can display transactional views, transactional graphs evolving over time, related-entity (shared-attribute network) graphs, drillable transaction histograms, directional transaction charts, activity plots, data export, and more.  The combination of these capabilities makes it a valuable tool for analyzing any kind of data that can be manipulated to reveal transactions and relationships of any sort.",
+        "Internal Code Repo": "tools\\analytics\\sotera\\Graphene",
+        "License": [
+            "ALv2"
+        ],
+        "Languages": [
+            "Java",
+            "JavaScript"
+        ],
+        "Platform Requirements": [
+            "Java 7",
+            "Tomcat"
+        ],
+        "Dependent modules": [
+            ""
+        ],
+        "Dependent module URLs": [
+            ""
+        ],
+        "Component modules": [
+            "Apache Maven"
+        ],
+        "Component module URLs": [
+            "http://maven.apache.org/"
+        ],
+        "Industry": [
+            ""
+        ],
+        "Functionality": [
+            ""
+        ],
+        "Categories": [
+            "Visualization"
+        ],
+        "New Date": "",
+        "Update Date": "20140708"
+    },
+    {
+        "DARPA Program": "XDATA",
+        "Program Teams": [
+            "Sotera Defense Solutions, Inc."
+        ],
+        "Contributors": [
+            ""
+        ],
+        "Sub-contractors": [
+            ""
+        ],
+        "Software": "Distributed Graph Analytics",
+        "Internal Link": "",
+        "External Link": "http://sotera.github.io/distributed-graph-analytics/",
+        "Public Code Repo": "https://github.com/Sotera/distributed-graph-analytics",
+        "Instructional Material": "2014-07",
+        "Stats": "distributed-graph-analytics",
+        "Description": "Distributed Graph Analytics (DGA) is a compendium of graph analytics written for Bulk-Synchronous-Parallel (BSP) processing frameworks such as Giraph and GraphX. The analytics included are High Betweenness Set Extraction, Weakly Connected Components, Page Rank, Leaf Compression, and Louvain Modularity.",
+        "Internal Code Repo": "",
+        "License": [
+            "ALv2"
+        ],
+        "Languages": [
+            "Scala",
+            "Java"
+        ],
+        "Platform Requirements": [
+            ""
+        ],
+        "Dependent modules": [
+            ""
+        ],
+        "Dependent module URLs": [
+            ""
+        ],
+        "Component modules": [
+            "Git",
+            "Gradle",
+            "Java 7",
+            "Apache Giraph 1.1.0-SNAPSHOT (Built for CDH 5.0.0 or CDH 4.7.0)",
+            "CDH 5.0.0 (MRv1)"
+        ],
+        "Component module URLs": [
+            "http://git-scm.com/",
+            "http://www.gradle.org/",
+            "https://www.java.com/en/download/",
+            "https://giraph.apache.org/",
+            "http://www.cloudera.com/content/cloudera/en/home.html"
+        ],
+        "Industry": [
+            ""
+        ],
+        "Functionality": [
+            ""
+        ],
+        "Categories": [
+            "Analytics"
+        ],
+        "New Date": "",
+        "Update Date": "20140708"
+    },
+    {
+        "DARPA Program": "XDATA",
+        "Program Teams": [
+            "Sotera Defense Solutions, Inc."
+        ],
+        "Contributors": [
+            ""
+        ],
+        "Sub-contractors": [
+            ""
+        ],
+        "Software": "Track Communities",
+        "Internal Link": "",
+        "External Link": "https://github.com/Sotera/track-communities",
+        "Public Code Repo": "https://github.com/Sotera/track-communities.git",
+        "Instructional Material": "2014-07",
+        "Stats": "track-communities",
+        "Description": "An analytic for creating networks from geo-temporal track data based on time/space co-occurrence. Includes UI for visualization of communities and tracks.  This tool is a synthesis of several analytic components and visualization techniques that allow a user to browse a network of communities, follow tracks of movement, and observe co-location highlights within a dynamic graph. (Python/JavaScript)",
+        "Internal Code Repo": "",
+        "License": [
+            "ALv2"
+        ],
+        "Languages": [
             "Python",
-            "Matlab",
-            "C"
+            "JavaScript"
         ],
-        "Platform Requirements":[
+        "Platform Requirements": [
             ""
         ],
-        "Dependent modules":[
+        "Dependent modules": [
             ""
         ],
-        "Dependent module URLs":[
+        "Dependent module URLs": [
             ""
         ],
-        "Component modules":[
+        "Component modules": [
+            "Cloudera CDH",
+            "Cloudera Impala",
+            "Apache Hive",
+            "Aggregate Micro Paths",
+            "Distributed Louvain Modularity",
+            "Tangelo Web Framework"
+        ],
+        "Component module URLs": [
+            "http://www.cloudera.com/content/cloudera/en/products-and-services/cdh.html",
+            "http://www.cloudera.com/content/cloudera/en/products-and-services/cdh/impala.html",
+            "https://hive.apache.org/",
+            "http://sotera.github.io/aggregate-micro-paths/",
+            "http://sotera.github.io/distributed-louvain-modularity/",
+            "http://tangelo.kitware.com/"
+        ],
+        "Industry": [
             ""
         ],
-        "Component module URLs":[
+        "Functionality": [
             ""
         ],
-        "Industry":[
-            ""
+        "Categories": [
+            "Analytics",
+            "Visualization"
         ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Analytics"
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
-    {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
-            "Stanford University - Boyd"
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
-        "Software":"PDOS (Primal-dual operator splitting)",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Stanford+Convex+Optimization+Group",
-        "External Link":"https://github.com/cvxgrp/pdos",
-        "Public Code Repo":"https://github.com/cvxgrp/pdos.git",
-        "Instructional Material":"2014-07",
-        "Stats":"pdos",
-        "Description":"Concise algorithm for solving convex problems; solves problems passed from QCML. (C)",
-        "Internal Code Repo":"tools\\analytics\\stanford-b\\pdos",
-        "License":[
-            "ALv2"
-        ],
-        "Languages":[
-            "C"
-        ],
-        "Platform Requirements":[
-            ""
-        ],
-        "Dependent modules":[
-            ""
-        ],
-        "Dependent module URLs":[
-            ""
-        ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Analytics"
-        ],
-        "New Date":"",
-        "Update Date":""
+        "New Date": "",
+        "Update Date": "20140708"
     },
     {
         "DARPA Program":"XDATA",
@@ -3005,20 +3269,19 @@
         "Sub-contractors":[
             ""
         ],
-        "Software":"Proximal Operators",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Stanford+Convex+Optimization+Group",
-        "External Link":"https://github.com/cvxgrp/proximal",
-        "Public Code Repo":"https://github.com/cvxgrp/proximal.git",
+        "Software":"CVXPY",
+        "Internal Link":"",
+        "External Link":"http://www.cvxpy.org/",
+        "Public Code Repo":"https://github.com/cvxgrp/cvxpy.git",
         "Instructional Material":"2014-07",
-        "Stats":"ecos",
-        "Description":"This library contains sample implementations of various proximal operators in Matlab. These implementations are intended to be pedagogical, not the most performant. This code is associated with the paper Proximal Algorithms by Neal Parikh and Stephen Boyd. (Matlab/C)",
+        "Stats":"cvxpy",
+        "Description":"CVXPY is a Python-embedded modeling language for convex optimization problems. It allows you to express your problem in a natural way that follows the math, rather than in the restrictive standard form required by solvers. (Python)",
         "Internal Code Repo":"",
         "License":[
-            "ALv2"
+            "GPLv3"
         ],
         "Languages":[
-            "Matlab",
-            "C"
+            "Python"
         ],
         "Platform Requirements":[
             ""
@@ -3045,7 +3308,7 @@
             "Analytics"
         ],
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140617"
     },
     {
         "DARPA Program":"XDATA",
@@ -3061,7 +3324,7 @@
         "Software":"imMens",
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=7274499",
         "External Link":"http://vis.stanford.edu/projects/immens/",
-        "Public Code Repo":"https://github.com/StanfordHCI/imMens.git",
+        "Public Code Repo":"https://github.com/uwdata/imMens.git",
         "Instructional Material":"2014-07",
         "Stats":"imMens",
         "Description":"imMens is a web-based system for interactive visualization of large databases. imMens uses binned aggregation to produce summary visualizations that avoid the shortcomings of standard sampling-based approaches. Through data decomposition methods (to limit data transfer) and GPU computation via WebGL (for parallel query processing), imMens enables real-time (50fps) visual querying of billion+ element databases. (JavaScript)",
@@ -3097,12 +3360,12 @@
             "Visualization"
         ],
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140814"
     },
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "Stanford University - Hanrahan"
+            "PNNL", "Purdue University"
         ],
         "Contributors":[
             ""
@@ -3110,72 +3373,22 @@
         "Sub-contractors":[
             ""
         ],
-        "Software":"trelliscope",
+        "Software":"Tessera",
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=7274499",
-        "External Link":"http://hafen.github.io/trelliscope/",
-        "Public Code Repo":"https://github.com/hafen/trelliscope.git",
+        "External Link":"http://www.tesseradata.org/",
+        "Public Code Repo":"https://github.com/tesseradata/tesseradata.github.io.git",
         "Instructional Material":"2014-07",
-        "Stats":"trelliscope",
-        "Description":"Trellis Display, developed in the 90s, also divides the data. A visualization method is applied to each subset and shown on one panel of a multi-panel trellis display.  This framework is a very powerful mechanism for all data, large and small.  Trelliscope, a layer that uses datadr, extends Trellis to large complex data.  An interactive viewer is available for viewing subsets of very large displays, and the software provides the capability to sample subsets of panels from rigorous sampling plans.  Sampling is often necessary because in most applications, there are too many subsets to look at them all. (R)",
+        "Stats":"tesseradata.github.io",
+        "Description":"Tessera is an open source environment for deep analysis of big data. At the front end, the analyst programs in R, and has access to the thousands of methods of statistics, machine learning, and visualization implemented in R. At the back end is a distributed parallel computational environment such as Hadoop, that enables scaling to big data. In between are three Tessera packages: datadr, Trelliscope, and RHIPE (R and Hadoop Integrated Programming Environment). These packages enable the data analyst to communicate with the back end by simple R commands, and not have to worry about the details of distributed parallel computation. Tessera is powered by a statistical approach to large complex data, Divide and Recombine (D&R). The data are parallelized, not the thousands of methods, which makes back end computation typically very nearly embarrassingly parallel, and therefore very fast. But at the same time, D&R statistical division and recombination methods ensure good statistical performance.",
         "Internal Code Repo":"tools\\analytics\\stanford-h",
         "License":[
-            "BSD"
-        ],
-        "Languages":[
-            "R"
-        ],
-        "Platform Requirements":[
-            ""
-        ],
-        "Dependent modules":[
-            ""
-        ],
-        "Dependent module URLs":[
-            ""
-        ],
-        "Component modules":[
-            ""
-        ],
-        "Component module URLs":[
-            ""
-        ],
-        "Industry":[
-            ""
-        ],
-        "Functionality":[
-            ""
-        ],
-        "Categories":[
-            "Visualization"
-        ],
-        "New Date":"",
-        "Update Date":""
-    },
-    {
-        "DARPA Program":"XDATA",
-        "Program Teams":[
-            "Stanford University - Hanrahan"
-        ],
-        "Contributors":[
-            ""
-        ],
-        "Sub-contractors":[
-            ""
-        ],
-        "Software":"RHIPE: R and Hadoop Integrated Programming Environment",
-        "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=7274499",
-        "External Link":"http://www.datadr.org/",
-        "Public Code Repo":"https://github.com/saptarshiguha/RHIPE.git",
-        "Instructional Material":"2014-07",
-        "Stats":"RHIPE",
-        "Description":"In Divide and Recombine (D&R), big data are divided into subsets in one or more ways, forming divisions. Analytic methods, numeric-categorical methods of machine learning and statistics plus visualization methods, are applied to each of the subsets of a division. Then the subset outputs for each method are recombined.  D&R methods of division and recombination seek to make the statistical accuracy of recombinations as large as possible, ideally close to that of the hypothetical direct, all-data application of the methods. The D&R computational environment starts with RHIPE, a merger of R and Hadoop. RHIPE allows an analyst to carry out D&R analysis of big data wholly from within R, and use any of the thousands of methods available in R. RHIPE communicates with Hadoop to carry out the big, parallel computations. (Java/R)",
-        "Internal Code Repo":"tools\\analytics\\stanford-h",
-        "License":[
+            "BSD",
             "ALv2"
         ],
         "Languages":[
+            "R",
             "Java",
-            "R"
+            "C"
         ],
         "Platform Requirements":[
             ""
@@ -3199,7 +3412,7 @@
             ""
         ],
         "Categories":[
-            "Infrastructure"
+            "Infrastructure", "Analytics", "Visualization"
         ],
         "New Date":"",
         "Update Date":""
@@ -3269,10 +3482,10 @@
         ],
         "Software":"Delite",
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/Stanford+XGraph",
-        "External Link":"https://github.com/stanford-ppl/delite",
-        "Public Code Repo":"https://github.com/stanford-ppl/Delite.git",
+        "External Link":"http://stanford-ppl.github.io/Delite/index.html",
+        "Public Code Repo":"https://github.com/stanford-ppl/hyperdsl",
         "Instructional Material":"2014-07",
-        "Stats":"Delite",
+        "Stats":"hyperdsl",
         "Description":"Delite is a compiler framework and runtime for parallel embedded domain-specific languages (DSLs). (Scala)",
         "Internal Code Repo":"tools\\analytics\\stanford-o",
         "License":[
@@ -3306,7 +3519,61 @@
             "Infrastructure"
         ],
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140624"
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Stanford University - Olukotun"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"DeepDive",
+        "Internal Link":"",
+        "External Link":"http://deepdive.stanford.edu/",
+        "Public Code Repo":"https://github.com/HazyResearch/deepdive.git",
+        "Instructional Material":"2014-07",
+        "Stats":"deepdive",
+        "Description":"DeepDive is a new type of knowledge base construction system that enables developers to analyze data on a deeper level than ever before. Many applications have been built using DeepDive to extract data from millions of documents, Web pages, PDFs, tables, and figures. DeepDive is a trained system, which means that it uses machine-learning techniques to incorporate domain-specific knowledge and user feedback to improve the quality of its analysis. DeepDive can deal with noisy and imprecise data by producing calibrated probabilities for every assertion it makes. DeepDive offers a scalable, high-performance learning engine. (SQL, Python, C++)",
+        "Internal Code Repo":"",
+        "License":[
+            "ALv2"
+        ],
+        "Languages":[
+            "SQL",
+            "Python",
+            "C++"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            ""
+        ],
+        "Categories":[
+            "Infrastructure"
+        ],
+        "New Date":"20140618",
+        "Update Date":"20140618"
     },
     {
         "DARPA Program":"XDATA",
@@ -3376,8 +3643,8 @@
         "External Link":"http://snap.stanford.edu/snappy/",
         "Public Code Repo":"https://github.com/snap-stanford/snap",
         "Instructional Material":"2014-07",
-        "Stats":"snap.py",
-        "Description":"Snap.py is a Python interface for SNAP. SNAP is a general purpose, high performance system for analysis and manipulation of large networks",
+        "Stats":"snap",
+        "Description":"Snap.py is a Python interface for SNAP. SNAP is a general purpose, high performance system for analysis and manipulation of large networks.",
         "Internal Code Repo":"tools\\analytics\\stanford-o",
         "License":[
             "BSD"
@@ -3409,7 +3676,7 @@
         "Categories":[
             "Infrastructure"
         ],
-        "New Date":"",
+        "New Date":"20140701",
         "Update Date":""
     },
     {
@@ -3427,7 +3694,7 @@
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/SYSTAP%2C+LLC",
         "External Link":"http://sourceforge.net/projects/bigdata/",
         "Public Code Repo":"https://bigdata.svn.sourceforge.net/svnroot/bigdata/",
-        "Instructional Material":"2014-07",
+        "Instructional Material":"Not Available",
         "Stats":"bigdata",
         "Description":"Bigdata enables massively parallel graph processing on GPUs and many core CPUs. The approach is based on the decomposition of a graph algorithm as a vertex program. The initial implementation supports an API based on the GraphLab 2.1 Gather Apply Scatter (GAS) API. Execution is available on GPUs, Intel Xenon Phi (aka MIC), and multi-core GPUs.",
         "Internal Code Repo":"tools\\analytics\\SYSTAP",
@@ -3519,7 +3786,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "UC Davis"
+            "University of California - Davis"
         ],
         "Contributors":[
             ""
@@ -3581,12 +3848,12 @@
         "Sub-contractors":[
             ""
         ],
-        "Software":"Analytic Activity Logger",
+        "Software":"USER-ALE: User Activity Logging Engine",
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/XSW2013/draper@summerCamp2013",
-        "External Link":"https://github.com/draperlaboratory/xdatalogger",
-        "Public Code Repo":"https://github.com/draperlab/xdatalogger.git",
-        "Instructional Material":"2014-07",
-        "Stats":"xdatalogger",
+        "External Link":"http://draperlaboratory.github.io/user-ale/",
+        "Public Code Repo":"https://github.com/draperlaboratory/user-ale.git",
+        "Instructional Material":"http://draperlaboratory.github.io/user-ale/",
+        "Stats":"user-ale",
         "Description":"Analytic Activity Logger is an API that creates a common message passing interface to allow heterogeneous software components to communicate with an activity logging engine. Recording a user's analytic activities enables estimation of operational context and workflow. Combined with psychophysiology sensing, analytic activity logging further enables estimation of the user's arousal, cognitive load, and engagement with the tool. (JavaScript)",
         "Internal Code Repo":"tools\\utilities\\draper",
         "License":[
@@ -3625,7 +3892,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "University of California, Berkeley"
+            "University of California - Berkeley"
         ],
         "Contributors":[
             ""
@@ -3636,7 +3903,7 @@
         "Software":"BDAS",
         "Internal Link":"",
         "External Link":"https://amplab.cs.berkeley.edu/software/",
-        "Public Code Repo":"Net Ready for Release",
+        "Public Code Repo":"",
         "Instructional Material":"2014-07",
         "Stats":"",
         "Description":"BDAS, the Berkeley Data Analytics Stack, is an open source software stack that integrates software components being built by the AMPLab to make sense of Big Data.",
@@ -3678,7 +3945,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "University of California, Berkeley"
+            "University of California - Berkeley"
         ],
         "Contributors":[
             ""
@@ -3689,9 +3956,9 @@
         "Software":"Spark",
         "Internal Link":"",
         "External Link":"http://spark.incubator.apache.org/",
-        "Public Code Repo":"https://git-wip-us.apache.org/repos/asf/incubator-spark.git",
+        "Public Code Repo":"https://github.com/apache/spark.git",
         "Instructional Material":"2014-07",
-        "Stats":"incubator-spark",
+        "Stats":"spark",
         "Description":"Apache Spark is an open source cluster computing system that aims to make data analytics both fast to run and fast to write. To run programs faster, Spark offers a general execution model that can optimize arbitrary operator graphs, and supports in-memory computing, which lets it query data faster than disk-based engines like Hadoop. To make programming faster, Spark provides clean, concise APIs in Python, Scala and Java. You can also use Spark interactively from the Scala and Python shells to rapidly query big datasets. (Java/Scala/Python)",
         "Internal Code Repo":"N/A",
         "License":[
@@ -3732,7 +3999,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "University of California, Berkeley"
+            "University of California - Berkeley"
         ],
         "Contributors":[
             ""
@@ -3784,7 +4051,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "University of California, Berkeley"
+            "University of California - Berkeley"
         ],
         "Contributors":[
             ""
@@ -3836,7 +4103,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "University of California, Berkeley"
+            "University of California - Berkeley"
         ],
         "Contributors":[
             ""
@@ -3890,7 +4157,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "University of California, Berkeley"
+            "University of California - Berkeley"
         ],
         "Contributors":[
             ""
@@ -3942,7 +4209,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "University of Southern California"
+            "USC"
         ],
         "Contributors":[
             ""
@@ -3954,7 +4221,7 @@
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/pages/viewpage.action?pageId=6717524",
         "External Link":"https://github.com/usc-cloud/goffish",
         "Public Code Repo":"https://github.com/usc-cloud/goffish.git",
-        "Instructional Material":"2014-07",
+        "Instructional Material":"https://github.com/usc-cloud/goffish/blob/master/README.md",
         "Stats":"goffish",
         "Description":"The GoFFish project offers a distributed framework for storing timeseries graphs and composing graph analytics. It takes a clean-slate approach that leverages best practices and patterns from scalable data analytics such as Hadoop, HDFS, Hive, and Giraph, but with an emphasis on performing native analytics on graph (rather than tuple) data structures. This offers an more intuitive storage, access and programming model for graph datasets while also ensuring performance optimized for efficient analysis over large graphs (millions-billions of vertices) and many instances of them (thousands-millions of graph instances). (Slash/Java)",
         "Internal Code Repo":"N/A",
@@ -3995,7 +4262,59 @@
         ],
         "New Date":"",
         "Update Date":""
-    }, 
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Data Tactics Corporation"
+        ],
+        "Contributors":[
+            ""
+        ],
+        "Sub-contractors":[
+            ""
+        ],
+        "Software":"Escher",
+        "Internal Link":"",
+        "External Link":"https://github.com/gocircuit/escher",
+        "Public Code Repo":"https://github.com/gocircuit/escher.git",
+        "Instructional Material":"",
+        "Stats":"escher",
+        "Description":"Escher is a minimal metaphor programming language that plays as a lego block for intelligent translation across foreign semantics of heterogenous technologies. (Go)",
+        "Internal Code Repo":"",
+        "License":[
+            "ALv2"
+        ],
+        "Languages":[
+            "Go"
+        ],
+        "Platform Requirements":[
+            ""
+        ],
+        "Dependent modules":[
+            ""
+        ],
+        "Dependent module URLs":[
+            ""
+        ],
+        "Component modules":[
+            ""
+        ],
+        "Component module URLs":[
+            ""
+        ],
+        "Industry":[
+            ""
+        ],
+        "Functionality":[
+            "Programming Languages"
+        ],
+        "Categories":[
+            "Infrastructure"
+        ],
+        "New Date":"20140827",
+        "Update Date":""
+    },
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
@@ -4003,7 +4322,8 @@
             "Kitware, Inc."
         ],
         "Contributors":[
-            "Harvard Medical School", "Harvard Kennedy School of Government"
+            "Harvard Medical School",
+			"Harvard Kennedy School of Government"
         ],
         "Sub-contractors":[
             ""
@@ -4011,14 +4331,10 @@
         "Software":"UpSet",
         "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/VIS/Visual+Design+Environment-Kitware+Home",
         "External Link":"http://vcg.github.io/upset",
-        "Public Code Repo":"https://github.com/vcg/upset/",
+        "Public Code Repo":"https://github.com/VCG/upset.git",
         "Instructional Material":"https://github.com/vcg/upset/",
-        "Stats":"",
-        "Description":"Understanding relationships between sets is an important analysis task that has received widespread attention in the visualization community. The major challenge in this context is the combinatorial explosion of the number of set intersections if the number of sets exceeds a trivial threshold. To address this, we introduce UpSet, a novel visualization technique for the quantitative analysis of sets, their intersections, and aggregates of intersections.
-        
-UpSet is focused on creating task-driven aggregates, communicating the size and properties of aggregates and intersections, and a duality between the visualization of the elements in a dataset and their set membership. UpSet visualizes set intersections in a matrix layout and introduces aggregates based on groupings and queries. The matrix layout enables the effective representation of associated data, such as the number of elements in the aggregates and intersections, as well as additional summary statistics derived from subset or element attributes.
-
-Sorting according to various measures enables a task-driven analysis of relevant intersections and aggregates. The elements represented in the sets and their associated attributes are visualized in a separate view. Queries based on containment in specific intersections, aggregates or driven by attribute filters are propagated between both views. UpSet also introduces several advanced visual encodings and interaction methods to overcome the problems of varying scales and to address scalability.",
+        "Stats":"upset",
+        "Description":"Understanding relationships between sets is an important analysis task that has received widespread attention in the visualization community. The major challenge in this context is the combinatorial explosion of the number of set intersections if the number of sets exceeds a trivial threshold. To address this, we introduce UpSet, a novel visualization technique for the quantitative analysis of sets, their intersections, and aggregates of intersections. </BR>UpSet is focused on creating task-driven aggregates, communicating the size and properties of aggregates and intersections, and a duality between the visualization of the elements in a dataset and their set membership. UpSet visualizes set intersections in a matrix layout and introduces aggregates based on groupings and queries. The matrix layout enables the effective representation of associated data, such as the number of elements in the aggregates and intersections, as well as additional summary statistics derived from subset or element attributes.</BR>Sorting according to various measures enables a task-driven analysis of relevant intersections and aggregates. The elements represented in the sets and their associated attributes are visualized in a separate view. Queries based on containment in specific intersections, aggregates or driven by attribute filters are propagated between both views. UpSet also introduces several advanced visual encodings and interaction methods to overcome the problems of varying scales and to address scalability. (JavaScript)",
         "Internal Code Repo":"tools\\visualizations\\kitware\\xdata-apps",
         "License":[
             "MIT"
@@ -4050,7 +4366,62 @@ Sorting according to various measures enables a task-driven analysis of relevant
         "Categories":[
             "Visualization"
         ],
-        "New Date":"",
+        "New Date":"20140828",
         "Update Date":""
     },
+	{
+        "DARPA Program": "XDATA", 
+        "Program Teams": [
+            "Carnegie Mellon University"
+        ], 
+        "Contributors": [
+            "Carnegie Mellon University"
+        ], 
+        "Sub-contractors": [
+            ""
+        ], 
+        "Software": "Active Search", 
+        "Internal Link": "", 
+        "External Link": "https://github.com/AutonlabCMU/ActiveSearch", 
+        "Public Code Repo": "https://github.com/AutonlabCMU/ActiveSearch.git", 
+        "Instructional Material": "", 
+        "Stats": "ActiveSearch", 
+        "Description": "ActiveSearch takes a collection of emails (or any dataset where a similarity can be generated between elements) and recommends related messages based on user feedback. The user provides an initial seed email then enters into a cycle where ActiveSearch provides a similar email and the user reports whether or not the email was interesting.ActiveSearch is useful for anyone navigating a large set of emails and looking for related messages on a specific topic. As it considers the similarities between emails as well as user feedback, it is an improvement in accuracy, time, and effort over basic text search or a brute force search.(Java, Perl)", 
+        "Internal Code Repo": "", 
+        "License": [
+            "MIT"
+        ], 
+        "Languages": [
+            "Java", 
+            "Perl"
+        ], 
+        "Platform Requirements": [
+            "Linux", 
+            "(untested but may work on other platforms)"
+        ], 
+        "Dependent modules": [
+            ""
+        ], 
+        "Dependent module URLs": [
+            ""
+        ], 
+        "Component modules": [
+            ""
+        ], 
+        "Component module URLs": [
+            ""
+        ], 
+        "Industry": [
+            ""
+        ], 
+        "Functionality": [
+            "Email", 
+            "Search"
+        ], 
+        "Categories": [
+            "Analytics"
+        ], 
+        "New Date": "20140813", 
+        "Update Date": "20140828"
+    }
 ]

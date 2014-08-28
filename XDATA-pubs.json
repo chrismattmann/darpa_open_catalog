@@ -966,7 +966,7 @@
         ],
         "Link":"http://arxiv.org/abs/1212.1182",
         "Categories":[
-            "Machine-learning"
+            "Machine Learning"
         ],
         "Subcategories":[
             ""
@@ -1279,7 +1279,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "Harvard"
+            "Harvard University"
         ],
         "Title":"Graphlet Decomposition of a Weighted Network",
         "Authors":[
@@ -1302,7 +1302,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "Harvard",
+            "Harvard University",
             "Kitware, Inc."
         ],
         "Title":"Entourage: Visualizing Relationships between Biological Pathways using Contextual Subsets",
@@ -1332,7 +1332,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "Harvard",
+            "Harvard University",
             "Kitware, Inc."
         ],
         "Title":"LineUp: Visual Analysis of Multi-Attribute Rankings",
@@ -1634,7 +1634,7 @@
         ],
         "Link":"http://www.oculusinfo.com/assets/pdfs/papers/Submitted_Oculus_Big_Data_Scatter_Plot_EDA_9Aug2013_Final_better.pdf",
         "Categories":[
-            "Visualization application domain"
+            "Visualization application domains"
         ],
         "Subcategories":[
             "Visual analytics"
@@ -1661,7 +1661,7 @@
         ],
         "Link":"http://www.oculusinfo.com/assets/pdfs/papers/Submitted_Oculus_Big_Data_Louvain_Clustering_9Aug2013_Final.pdf",
         "Categories":[
-            "Visualization application domain"
+            "Visualization application domains"
         ],
         "Subcategories":[
             "Visual analytics"
@@ -1699,7 +1699,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "Sotera Defense Solutions"
+            "Sotera Defense Solutions, Inc."
         ],
         "Title":"A Survey of Big Data Methods, Assessments, and Approaches",
         "Authors":[
@@ -1721,7 +1721,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "Sotera Defense Solutions"
+            "Sotera Defense Solutions, Inc."
         ],
         "Title":"Correlation Using Pair-wise Combinations of Multiple Data Sources and Dimensions at Ultra-Large Scales",
         "Authors":[
@@ -1745,7 +1745,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "Sotera Defense Solutions"
+            "Sotera Defense Solutions, Inc."
         ],
         "Title":"Movement Inference through Aggregate Trajectory Extraction",
         "Authors":[
@@ -1771,7 +1771,7 @@
         "DARPA Program":"XDATA",
         "Program Teams":[
             "Stanford University - Hanrahan",
-            "Purdue",
+            "Purdue University",
             "PNNL"
         ],
         "Title":"Large-Scale Exploratory Analysis, Cleaning, and Modeling for Event Detection in Real-World Power Systems Data",
@@ -1798,7 +1798,7 @@
         "DARPA Program":"XDATA",
         "Program Teams":[
             "Stanford University - Hanrahan",
-            "Purdue",
+            "Purdue University",
             "PNNL"
         ],
         "Title":"EDA and ML - A Perfect Pair for Large-Scale Data Analysis",
@@ -1823,7 +1823,7 @@
         "DARPA Program":"XDATA",
         "Program Teams":[
             "Stanford University - Hanrahan",
-            "Purdue",
+            "Purdue University",
             "PNNL"
         ],
         "Title":"Power Grid Data Analysis with R and Hadoop",
@@ -1850,7 +1850,7 @@
         "DARPA Program":"XDATA",
         "Program Teams":[
             "Stanford University - Hanrahan",
-            "Purdue",
+            "Purdue University",
             "PNNL"
         ],
         "Title":"imMens: Real-time Visual Querying of Big Data",
@@ -2003,7 +2003,7 @@
         "DARPA Program":"XDATA",
         "Program Teams":[
             "Stanford University - Hanrahan",
-            "Purdue",
+            "Purdue University",
             "PNNL"
         ],
         "Title":"Trelliscope: A System for Detailed Visualization in the Deep Analysis of Large Complex Data",
@@ -2165,6 +2165,31 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
+            "Stanford University - Olukotun"
+        ],
+        "Title":"Elementary: Large-scale Knowledge-base Construction via Machine Learning and Statistical Inference",
+        "Authors":[
+            "Feng Niu",
+            "Ce Zhang",
+            "Christopher Re",
+            "Jude Shavlik"
+        ],
+        "Link":"http://i.stanford.edu/hazy/papers/elementary_journal.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"20140624",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
             "The New School"
         ],
         "Title":"IAM - Incremental Agent-Based Mapping",
@@ -2194,7 +2219,7 @@
             "Bernd Riedel",
             "Chris Goranson"
         ],
-        "Link":"https://www.dropbox.com/sh/ea6ya5cpnxreuak/F6INhNz-PE/IAM_DARPA_FIN_Compiled_Parsons.pdf",
+        "Link":"http://piim.newschool.edu/_media/pdfs/IAM_DARPA_FIN_Compiled_Parsons.pdf",
         "Categories":[
             "Project and People Management"
         ],
@@ -2205,7 +2230,7 @@
             "K.6.1"
         ],
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140624"
     },
     {
         "DARPA Program":"XDATA",
@@ -2238,7 +2263,7 @@
         "Authors":[
             "Jihoon Kang"
         ],
-        "Link":"https://www.dropbox.com/sh/ea6ya5cpnxreuak/T71QA5z_iI/Data_Visualization_Design_Guidelines_Parsons_FIN.pdf",
+        "Link":"http://piim.newschool.edu/_media/pdfs/Data_Visualization_for_Big_Data_Parsons.pdf",
         "Categories":[
             "User Interfaces",
             "Group and Organization Interfaces"
@@ -2254,7 +2279,7 @@
             "H.5.3"
         ],
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140624"
     },
     {
         "DARPA Program":"XDATA",
@@ -2265,9 +2290,9 @@
         "Authors":[
             "William M. Bevington"
         ],
-        "Link":"https://www.dropbox.com/sh/ea6ya5cpnxreuak/q6h5q76tfY/Big_Data_and_Knowledge_Discovery_Metapictorial_Visualization_Parsons.pdf",
+        "Link":"http://piim.newschool.edu/_media/pdfs/Big_Data_and_Knowledge_Discovery_Metapictorial_Visualization_Parsons.pdf",
         "Categories":[
-            "Design",
+            "Design Tools and Techniques",
             "Group and Organization Interfaces"
         ],
         "Subcategories":[
@@ -2279,7 +2304,7 @@
             "H.5.3"
         ],
         "New Date":"",
-        "Update Date":""
+        "Update Date":"20140624"
     },
     {
         "DARPA Program":"XDATA",
@@ -2309,7 +2334,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "UC Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"Carat: Collaborative Energy Diagnosis for Mobile Devices",
         "Authors":[
@@ -2335,7 +2360,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "UC Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"Discretized Streams: Fault-Tolerant Streaming Computation at Scale",
         "Authors":[
@@ -2362,7 +2387,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "UC Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"Sparrow: Distributed, Low Latency Scheduling",
         "Authors":[
@@ -2387,7 +2412,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "UC Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"A General Bootstrap Performance Diagnostic",
         "Authors":[
@@ -2413,7 +2438,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "UC Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"MLI: An API for Distributed Machine Learning",
         "Authors":[
@@ -2443,7 +2468,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "UC Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"Leveraging Endpoint Flexibility in Data-Intensive Clusters",
         "Authors":[
@@ -2467,7 +2492,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "UC Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"Shark: SQL and Rich Analytics at Scale",
         "Authors":[
@@ -2494,7 +2519,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "UC Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"GraphX: A Resilient Distributed Graph System on Spark",
         "Authors":[
@@ -2519,7 +2544,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "UC Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"RTP: Robust Tenant Placement for Elastic In-Memory Database Clusters",
         "Authors":[
@@ -2547,7 +2572,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "UC Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"Bolt-on Causal Consistency",
         "Authors":[
@@ -2572,7 +2597,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "UC Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data",
         "Authors":[
@@ -2599,7 +2624,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "UC Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"MDCC: Multi-Data Center Consistency",
         "Authors":[
@@ -2625,7 +2650,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "UC Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"The Case for Tiny Tasks in Compute Clusters",
         "Authors":[
@@ -2654,7 +2679,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "UC Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"Presto: Distributed Machine Learning and Graph Processing with Sparse Matrices",
         "Authors":[
@@ -2680,7 +2705,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "UC Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"MLbase: A Distributed Machine-learning System",
         "Authors":[
@@ -2707,7 +2732,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
-            "UC Berkeley"
+            "University of California - Berkeley"
         ],
         "Title":"Coflow: A Networking Abstraction for Cluster Applications",
         "Authors":[
@@ -2919,7 +2944,7 @@
         "Authors":[
             ""
         ],
-        "Link":"Not Yet Published",
+        "Link":"http://www-scf.usc.edu/~kumbhare/pubs/ipdps_posterv2.pdf",
         "Categories":[
             ""
         ],
@@ -2939,9 +2964,11 @@
         ],
         "Title":"Enabling Realtime Pro-Active Analytics On Time Evolving Graphs",
         "Authors":[
-            ""
+            "Charith Wickramaarachchi",
+		    "Marc Fruncu",
+            "Viktor K. Prasanna"
         ],
-        "Link":"Not Yet Published",
+        "Link":"http://www.cs.usc.edu/assets/007/91140.pdf",
         "Categories":[
             ""
         ],
@@ -2952,6 +2979,56 @@
             ""
         ],
         "New Date":"",
+        "Update Date":"2014-06-19"
+    },
+      {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "USC"
+        ],
+        "Title":"Efficient Extraction of High Centrality Vertices in Distributed Graphs",
+        "Authors":[
+            "Alok Kumbhare",
+	        "Marc Frincu",
+	        "Cauligi S. Raghavendra",
+            "Viktor K. Prasanna"	
+        ],
+        "Link":"http://www-scf.usc.edu/~kumbhare/pubs/kumbhare-hpec-2014.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"2014-06-19",
+        "Update Date":""
+    },    
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "USC"
+        ],
+        "Title":"Fast Parallel Algorithm for Unfolding of Communities in Large Graphs",
+        "Authors":[
+            "Charith Wickramaarachchi",
+		"Marc Fruncu",
+                "Patrick Small",
+                "Viktor K. Prasanna"
+        ],
+        "Link":"http://www-scf.usc.edu/~cwickram/pubs/wickramaarachchi_hpec_2014.pdf",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"2014-06-19",
         "Update Date":""
     },
     {
@@ -2976,6 +3053,87 @@
             ""
         ],
         "New Date":"",
+        "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Jet Propulsion Laboratory"
+        ],
+        "Title":"Ashok Meena View Presentation, AGU Fall Meeting 2013 Presentations",
+        "Authors":[
+            "Andrew F. Hart",
+            "Chris A. Mattmann",
+            "Paul Ramirez",
+            "Rishi Verma",
+            "Paul A. Zimdars",
+            "Samuel Park",
+            "Adam Estrada",
+            "Arni Sumarlidason",
+            "Yolanda Gil",
+            "Varun Ratnakar",
+            "David Krum",
+            "Thai Phan"
+        ],
+        "Link":"",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"",
+        "Update Date":""
+    },
+	    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Stanford"
+        ],
+        "Title":"Simplifying Scalable Graph Processing with a Domain-Specific Language",
+        "Authors":[
+            "Sungpack Hong",
+            "Semih Salihoglu",
+            "Jennifer Widom",
+            "Kunle Olukotun"
+        ],
+        "Link":"http://dl.acm.org/citation.cfm?id=2544162",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"20140423",
+        "Update Date":""
+    },
+		    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Stanford"
+        ],
+        "Title":"Hardware Acceleration of Database Operations",
+        "Authors":[
+            "Jared Casper",
+            "Kunle Olukotun"
+        ],
+        "Link":"http://dl.acm.org/citation.cfm?id=2554787",
+        "Categories":[
+            ""
+        ],
+        "Subcategories":[
+            ""
+        ],
+        "ACM 1998 classification code":[
+            ""
+        ],
+        "New Date":"20140423",
         "Update Date":""
     }
 ]
