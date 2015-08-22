@@ -37,7 +37,11 @@
         "Program File": "BOLT-program.json",
         "Pubs File": "BOLT-pubs.json",
         "Software File": "BOLT-software.json",
+<<<<<<< HEAD
         "Banner":"UPDATED"
+=======
+        "Banner":""
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
 },
 {
         "DARPA Office": "I2O",
@@ -77,7 +81,11 @@
         "Program File": "DCAPS-program.json",
         "Pubs File": "DCAPS-pubs.json",
         "Software File": "DCAPS-software.json",
+<<<<<<< HEAD
         "Banner": "UPDATED"
+=======
+        "Banner": ""
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
 },
 {
         "DARPA Office": "I2O",
@@ -109,7 +117,11 @@
 		"Program File": "GRAPHS-program.json",
         "Pubs File": "GRAPHS-pubs.json",
         "Software File": "",
+<<<<<<< HEAD
         "Banner":"UPDATED"
+=======
+        "Banner":"NEW"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
 },
 {
         "DARPA Office": "I2O",
@@ -149,7 +161,11 @@
         "Program File": "PPAML-program.json",
         "Pubs File": "PPAML-pubs.json",
         "Software File": "PPAML-software.json",
+<<<<<<< HEAD
         "Banner": "UPDATED"
+=======
+        "Banner": "NEW"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
 },
 {
         "DARPA Office": "I2O",
@@ -165,7 +181,11 @@
         "Program File": "RATS-program.json",
         "Pubs File": "RATS-pubs.json",
         "Software File": "",
+<<<<<<< HEAD
         "Banner":"UPDATED"
+=======
+        "Banner":"NEW"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
 },
 {
         "DARPA Office": "BTO",
@@ -173,7 +193,11 @@
         "Program File": "RP-program.json",
         "Pubs File": "RP-pubs.json",
         "Software File": "",
+<<<<<<< HEAD
         "Banner":"UPDATED"
+=======
+        "Banner":"NEW"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
 },
 {
         "DARPA Office": "I2O",

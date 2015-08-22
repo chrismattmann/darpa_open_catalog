@@ -1360,7 +1360,11 @@
         "DARPA Program":"XDATA",
         "Program Teams":[
             "MDA Information Systems, Inc.",
+<<<<<<< HEAD
             "University of Southern California/Information Sciences Institute"
+=======
+            "University of Southern California"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         ],
         "Title":"Unlocking Big Data",
         "Authors":[
@@ -1385,7 +1389,11 @@
         "DARPA Program":"XDATA",
         "Program Teams":[
             "MDA Information Systems, Inc.",
+<<<<<<< HEAD
             "University of Southern California/Information Sciences Institute"
+=======
+            "University of Southern California"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         ],
         "Title":"Mapping Semantic Workflows to Alternative Workflow Execution Engines",
         "Authors":[
@@ -1409,7 +1417,11 @@
         "DARPA Program":"XDATA",
         "Program Teams":[
             "MDA Information Systems, Inc.",
+<<<<<<< HEAD
             "University of Southern California/Information Sciences Institute"
+=======
+            "University of Southern California"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         ],
         "Title":"Capturing Data Analytics and Visualization Expertise with Workflows",
         "Authors":[
@@ -1436,7 +1448,11 @@
         "DARPA Program":"XDATA",
         "Program Teams":[
             "MDA Information Systems, Inc.",
+<<<<<<< HEAD
             "University of Southern California/Information Sciences Institute"
+=======
+            "University of Southern California"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         ],
         "Title":"Time-Bound Analytic Tasks on Large Datasets through Dynamic",
         "Authors":[
@@ -1467,7 +1483,11 @@
         "DARPA Program":"XDATA",
         "Program Teams":[
             "MDA Information Systems, Inc.",
+<<<<<<< HEAD
             "University of Southern California/Information Sciences Institute"
+=======
+            "University of Southern California"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         ],
         "Title":"Configuration of Workflows",
         "Authors":[
@@ -1491,7 +1511,11 @@
         "DARPA Program":"XDATA",
         "Program Teams":[
             "MDA Information Systems, Inc.",
+<<<<<<< HEAD
             "University of Southern California/Information Sciences Institute"
+=======
+            "University of Southern California"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         ],
         "Title":"Large-Scale Multimedia Content Analysis Using Scientific Workflows",
         "Authors":[
@@ -1517,6 +1541,7 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
+<<<<<<< HEAD
             "University of Southern California/Information Sciences Institute"
         ],
         "Title":"A Semantic Framework for Automatic Generation of Computational Workflows Using Distributed Data and Component Catalogs",
@@ -1694,6 +1719,8 @@
     {
         "DARPA Program":"XDATA",
         "Program Teams":[
+=======
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
             "MIT-LL"
         ],
         "Title":"Content + Context Networks for User Classification in Twitter",
@@ -2373,7 +2400,11 @@
         "Authors":[
             "Bernd Riedel"
         ],
+<<<<<<< HEAD
         "Link":"Not Yet Published",
+=======
+        "Link":"https://www.dropbox.com/sh/ea6ya5cpnxreuak/NM7qycXc7l/IAM_Cognitive_Mapping_Thesis_Parsons.pdf",
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Categories":[
             "Project and People Management"
         ],
@@ -2384,7 +2415,11 @@
             "K.6.1"
         ],
         "New Date":"",
+<<<<<<< HEAD
         "Update Date":"20140908"
+=======
+        "Update Date":""
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     },
     {
         "DARPA Program":"XDATA",
@@ -2418,7 +2453,11 @@
         "Authors":[
             ""
         ],
+<<<<<<< HEAD
         "Link":"Not Yet Published",
+=======
+        "Link":"https://www.dropbox.com/sh/ea6ya5cpnxreuak/RyhknZGYPS/XDATA_Design_Methodology_Parsons.pdf",
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Categories":[
             "Group and Organization Interfaces"
         ],
@@ -2429,7 +2468,11 @@
             "H.5.3"
         ],
         "New Date":"",
+<<<<<<< HEAD
         "Update Date":"20140908"
+=======
+        "Update Date":""
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     },
     {
         "DARPA Program":"XDATA",
@@ -3195,7 +3238,11 @@
                 "Patrick Small",
                 "Viktor K. Prasanna"
         ],
+<<<<<<< HEAD
         "Link":"http://www.researchgate.net/publication/263007704_Fast_Parallel_Algorithm_For_Unfolding_Of_Communities_In_Large_Graphs",
+=======
+        "Link":"http://www-scf.usc.edu/~cwickram/pubs/wickramaarachchi_hpec_2014.pdf",
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Categories":[
             ""
         ],
@@ -3205,8 +3252,13 @@
         "ACM 1998 classification code":[
             ""
         ],
+<<<<<<< HEAD
         "New Date":"20140619",
         "Update Date":"20140908"
+=======
+        "New Date":"2014-06-19",
+        "Update Date":""
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     },
     {
         "DARPA Program":"XDATA",
@@ -3252,7 +3304,11 @@
             "David Krum",
             "Thai Phan"
         ],
+<<<<<<< HEAD
         "Link":"Not Yet Published",
+=======
+        "Link":"",
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Categories":[
             ""
         ],
@@ -3263,7 +3319,11 @@
             ""
         ],
         "New Date":"",
+<<<<<<< HEAD
         "Update Date":"20140908"
+=======
+        "Update Date":""
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     },
 	    {
         "DARPA Program":"XDATA",

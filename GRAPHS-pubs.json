@@ -116,7 +116,11 @@
         "Program Teams": [
             "Sandia National Laboratories"
         ], 
+<<<<<<< HEAD
         "Title": "Degree Relations of Triangles in Real-world Networks and Models", 
+=======
+        "Title": "Degree Relations of Triangles in Real-world Networks and Graph Models", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             "N. Durak", 
             "A. Pinar", 
@@ -195,7 +199,11 @@
         "Program Teams": [
             "Sandia National Laboratories"
         ], 
+<<<<<<< HEAD
         "Title": "A Space Efficient Streaming Algorithm for Estimating Transitivity and Triangle Counts Using the Birthday Paradox", 
+=======
+        "Title": "A Space Efficient Streaming Algorithm for Triangle Couting Using the Birthday Paradox", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             "M. Jha", 
             "C. Seshadhri", 
@@ -353,6 +361,7 @@
         ], 
         "New Date": "20140724", 
         "Update Date": ""
+<<<<<<< HEAD
     },
     {
         "DARPA Program": "GRAPHS", 
@@ -5269,3 +5278,7 @@
         "Update Date": ""
     }
 ]
+=======
+    }
+]
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e

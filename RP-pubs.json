@@ -7,7 +7,11 @@
             "Purdue University", 
             "University of Pittsburgh"
         ], 
+<<<<<<< HEAD
         "Title": "The Effect of Chronic Intracortical Microstimulation on the Electrode-Tissue Interface", 
+=======
+        "Title": "The effect of chronic intracortical microstimulation on the electrode-tissue interface", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             "Kevin H. Chen", 
             "John F. Fammann", 
@@ -36,7 +40,11 @@
             "The Johns Hopkins University Applied Physics Lab", 
             "University of Chicago"
         ], 
+<<<<<<< HEAD
         "Title": "Restoring the Sense of Touch with a Prosthetic Hand through a Brain Interface", 
+=======
+        "Title": "Restoring the sense of touch with a prosthetic hand through a brain interface", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             "Gregg A. Tabot", 
             "John F. Dammann", 
@@ -64,7 +72,11 @@
         "Program Teams": [
             "The Johns Hopkins University Applied Physics Lab"
         ], 
+<<<<<<< HEAD
         "Title": "Experimental Validation of Imposed Safety Regions for Neural Controlled Human Patient Self-feeding using the Modular Prosthetic Limb", 
+=======
+        "Title": "Experimental validation of imposed safety regions for neural controlled human patient self-feeding using the modular prosthetic limb", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             "Brock A. Wester", 
             "Matthew P. Para", 
@@ -94,7 +106,11 @@
         "Program Teams": [
             "University of Pittsburgh"
         ], 
+<<<<<<< HEAD
         "Title": "High-performance Neuroprosthetic Control by an Individual with Tetraplegia", 
+=======
+        "Title": "High-performance neuroprosthetic control by an individual with tetraplegia", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             "Jennifer L. Collinger", 
             "Brian Wodlinger", 
@@ -120,4 +136,8 @@
         "New Date": "20140724", 
         "Update Date": ""
     }
+<<<<<<< HEAD
 ]
+=======
+]
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e

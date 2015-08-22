@@ -26,7 +26,11 @@
         "Program Teams": [
             "Indiana University"
         ], 
+<<<<<<< HEAD
         "Title": "Designing a MCMC Library for Probabilistic Programming", 
+=======
+        "Title": "Designing a MCMC library for Probabilistic Programming", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             ""
         ], 
@@ -48,7 +52,11 @@
         "Program Teams": [
             "MIT"
         ], 
+<<<<<<< HEAD
         "Title": "Approximate Bayesian Image Interpretation using Generative Probabilistic Graphics Programs", 
+=======
+        "Title": "Approximate Bayesian Image Interpretation via Generative Probabilistic Graphics Programming ", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             ""
         ], 
@@ -92,7 +100,11 @@
         "Program Teams": [
             "MIT"
         ], 
+<<<<<<< HEAD
         "Title": "Building Fast Bayesian Computing Machines out of Intentionally Stochastic, Digital Parts", 
+=======
+        "Title": "Building fast, Bayesian computing machines out of intentionally stochastic, digital parts", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             ""
         ], 
@@ -114,7 +126,11 @@
         "Program Teams": [
             "MIT"
         ], 
+<<<<<<< HEAD
         "Title": "Venture: a Higher-order Probabilistic Programming Platform with Programmable Inference", 
+=======
+        "Title": "Venture: a higher-order probabilistic programming system with programmable inference", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             ""
         ], 
@@ -136,7 +152,11 @@
         "Program Teams": [
             "Princeton University"
         ], 
+<<<<<<< HEAD
         "Title": "Bayesian Nonparametric Poisson Factorization for Recommendation Systems", 
+=======
+        "Title": "Bayesian nonparametric Poisson factorization for recommendation systems", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             ""
         ], 
@@ -202,7 +222,11 @@
         "Program Teams": [
             "Princeton University"
         ], 
+<<<<<<< HEAD
         "Title": "The Inverse Regression Topic Model", 
+=======
+        "Title": "The inverse regression topic model", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             ""
         ], 
@@ -329,4 +353,8 @@
         "New Date": "2014-06-20", 
         "Update Date": ""
     }
+<<<<<<< HEAD
 ]
+=======
+]
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e

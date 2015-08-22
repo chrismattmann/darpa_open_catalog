@@ -8,8 +8,15 @@
         "Team",
         "Project",
         "Description",
+<<<<<<< HEAD
         "Category",
         "Code",
+=======
+        "Instructional Material",
+        "Category",
+        "Code",
+        "Stats",
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "License"
     ],
     "Display Pubs Columns":[

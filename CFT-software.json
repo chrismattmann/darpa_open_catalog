@@ -4215,7 +4215,11 @@
         "External Link":"http://www.redballoonsecurity.com/",
         "Public Code Repo":"CFTdata@darpa.mil",
         "Instructional Material":"",
+<<<<<<< HEAD
         "Description":"Independent host-based defense for arbitrary embedded systems using the principles of defense through diversity and attack surface minimization, which will include techniques such as binary autotomy and binary structure randomization.",
+=======
+        "Description":"Independent host-based defense for arbitrary embedded systems using the principals of defense through diversity and attack surface minimization which will include techniques such as binary autotomy and binary structure randomization.",
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "License":[
             "GPR"
         ],
@@ -5865,7 +5869,11 @@
         "External Link":"",
         "Public Code Repo":"CFTdata@darpa.mil",
         "Instructional Material":"",
+<<<<<<< HEAD
         "Description":"A technology that will detect and prevent infiltration of sensitive or classified networks via shared power sources including Modern or recent COTS broadband PLC protocols; older COTS protocols & non-COTS protocols including both voltage and current mode modulations.",
+=======
+        "Description":"A technology that will detect and prevent infiltration of sensitive or classified networks via shared power sources including Modern or recent COTS broadband PLC protocols; Older COTS protocols & Non-COTS protocols including both voltage and current mode modulations.",
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "License":[
             "GPR"
         ],
@@ -5899,4 +5907,8 @@
         "New Date":"",
         "Update Date":""
     }
+<<<<<<< HEAD
 ]
+=======
+]
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e

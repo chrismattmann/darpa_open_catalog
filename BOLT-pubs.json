@@ -485,7 +485,11 @@
             "(Team BBN) Columbia University",
             "George Washington University"
         ],
+<<<<<<< HEAD
         "Title":"Sentence-Level Dialect Identification in Arabic",
+=======
+        "Title":"Sentence-Level Dialect Identification in Arabic.",
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors":[
             "Heba Elfardy",
             "Mona Diab"
@@ -514,7 +518,11 @@
         "Program Teams":[
             "(Team BBN) Columbia University"
         ],
+<<<<<<< HEAD
         "Title":"Multiword Expressions in the Context of Statistical Machine Translation",
+=======
+        "Title":"Multiword Expressions in the context of Statistical Machine Translation",
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors":[
             "Mahmoud Ghoneim",
             "Mona Diab"
@@ -782,7 +790,11 @@
         "Program Teams":[
             "(Team BBN) National Research Council"
         ],
+<<<<<<< HEAD
         "Title":"Improved Reordering for Phrase-Based Translation Using Sparse Features",
+=======
+        "Title":"Improved Reordering for Phrase-Based Translation using Sparse Features",
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors":[
             "Colin Cherry"
         ],
@@ -2464,6 +2476,7 @@
         "Link":"https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/lrec2012-annotation-trees.pdf",
         "New Date":"",
         "Update Date":""
+<<<<<<< HEAD
     },
     {
         "DARPA Program": "BOLT", 
@@ -2904,3 +2917,7 @@
         "Update Date": ""
     }
 ]
+=======
+    }
+]
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e

@@ -23,12 +23,17 @@
             "Safaba Translation Solutions",
             "George Washington University"
         ],
+<<<<<<< HEAD
         "Title":"Reranking with Linguistic and Semantic Features for Arabic Optical Character Recognition",
+=======
+        "Title":"Ensemble Reranking with Linguistic and Semantic Features for Arabic Character Recognition",
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors":[
             "Nadi Tomeh",
             "Nizar Habash",
             "Ryan Roth",
             "Noura Farra",
+<<<<<<< HEAD
             "Pradeep Dasigi",
 			"Mona Diab"
         ],
@@ -737,6 +742,15 @@
         "Update Date": ""
     }, 
     {
+=======
+            "Pradeep Dasigi and Mona Diab"
+        ],
+        "Link":"http://aclweb.org/anthology/P/P13/P13-2098.pdf",
+        "New Date":"",
+        "Update Date":""
+    },
+    {
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "DARPA Program":"MADCAT",
         "Program Teams":[
             "(Team LDC) University of Maryland"
@@ -769,4 +783,8 @@
         "New Date":"",
         "Update Date":""
     }
+<<<<<<< HEAD
 ]
+=======
+]
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e

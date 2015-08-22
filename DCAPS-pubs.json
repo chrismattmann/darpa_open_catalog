@@ -349,7 +349,11 @@
             "USC",
 			"ICT"
         ], 
+<<<<<<< HEAD
         "Title": "It's Only a Computer: The Impact of Human-agent Interaction in Clinical Interviews", 
+=======
+        "Title": "Its Only a Computer: The Impact of Human-agent Interaction in Clinical Interviews", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             "J. Gratch", 
             "G. M. Lucas", 

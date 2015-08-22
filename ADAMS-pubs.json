@@ -24,14 +24,22 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
         "Program Teams": [
             "Palo Alto Research Center"
         ], 
+<<<<<<< HEAD
         "Title": "A Comparison Study of User Behavior on Facebook and Gmail", 
+=======
+        "Title": "A comparison study of user behavior on Facebook and Gmail", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             "Jianqiang Shen", 
             "Oliver Brdiczka", 
@@ -48,7 +56,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -72,7 +84,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -99,14 +115,22 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
         "Program Teams": [
             "Palo Alto Research Center"
         ], 
+<<<<<<< HEAD
         "Title": "A Bayesian Network Model for Predicting Insider Threats", 
+=======
+        "Title": "Bayesian network model for predicting insider threats", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             "Elise T. Axelrad", 
             "Paul J. Sticha", 
@@ -124,14 +148,22 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
         "Program Teams": [
             "Palo Alto Research Center"
         ], 
+<<<<<<< HEAD
         "Title": "Characterizing User Behavior and Information Propagation on a Social Multimedia Network", 
+=======
+        "Title": "Characterizing user behavior and information propagation on a social multimedia network", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             "Francis T. O'Donovan", 
             "Connie Fournelle", 
@@ -152,7 +184,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -176,7 +212,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -202,7 +242,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -228,14 +272,22 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
         "Program Teams": [
             "Palo Alto Research Center"
         ], 
+<<<<<<< HEAD
         "Title": "Proactive Insider Threat Detection through Graph Learning and Psychological Context", 
+=======
+        "Title": "Proactive insider threat detection through graph learning and psychological context", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             "Oliver Brdiczka", 
             "Juan Liu", 
@@ -257,14 +309,22 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
         "Program Teams": [
             "CERT"
         ], 
+<<<<<<< HEAD
         "Title": "Bridging the Gap: A Pragmatic Approach to Generating Insider Threat Data", 
+=======
+        "Title": "Bridging the gap: A pragmatic approach to generating insider threat data", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             "J. Glasser", 
             "B. Lindauer"
@@ -280,15 +340,50 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
     }, 
   
+=======
+        "Update Date": "2014-06-20"
+    }, 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     {
         "DARPA Program": "ADAMS", 
         "Program Teams": [
             "Leidos (formerly SAIC)"
         ], 
+<<<<<<< HEAD
         "Title": "OPAvion: Mining and Visualization in Large Graphs", 
+=======
+        "Title": "Large Graph Mining System for Patterns, Anomalies & Visualization", 
+        "Authors": [
+            "L. Akoglu", 
+            "D. H. Chau", 
+            "U. Kang", 
+            "D. Koutra", 
+            "C. Faloutsos"
+        ], 
+        "Link": "http://www.cs.cmu.edu/~ukang/papers/OPAvion.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "ADAMS", 
+        "Program Teams": [
+            "Leidos (formerly SAIC)"
+        ], 
+        "Title": "Opavion: Mining and visualization in large graphs", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             "L. Akoglu", 
             "D. H. Chau", 
@@ -307,14 +402,22 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
         "Program Teams": [
             "Leidos (formerly SAIC)"
         ], 
+<<<<<<< HEAD
         "Title": "Opinion Fraud Detection in Online Reviews by Network Effects", 
+=======
+        "Title": "Opinion Fraud Detection in Online Reviews using Network Effects", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             "L. Akoglu", 
             "R. Chandy", 
@@ -331,7 +434,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -357,7 +464,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -386,7 +497,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -411,7 +526,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -436,7 +555,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -461,7 +584,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -486,7 +613,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -508,14 +639,22 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
         "Program Teams": [
             "Leidos (formerly SAIC)"
         ], 
+<<<<<<< HEAD
         "Title": "Case Study on Fraud Detection using Social Network Analysis", 
+=======
+        "Title": "Case study on fraud detection using social-network analysis", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             "D. H. Chau", 
             "C. Faloutsos"
@@ -531,7 +670,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -555,7 +698,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -570,7 +717,11 @@
             "A. Fern", 
             "W.-K. Wong"
         ], 
+<<<<<<< HEAD
         "Link": "http://dl.acm.org/citation.cfm?id=2500858", 
+=======
+        "Link": "http://www.aaai.org/ocs/index.php/AAAI/AAAI13/paper/view/6171/7296", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Categories": [
             ""
         ], 
@@ -581,14 +732,22 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140909"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
         "Program Teams": [
             "Leidos (formerly SAIC)"
         ], 
+<<<<<<< HEAD
         "Title": "Do More Views of a Graph Help? Community Detection and Clustering in Multi-Graphs", 
+=======
+        "Title": "Do more views of a graph help? Community Detection and Clustering in Multi-Graphs", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             "E. E. Papalexakis", 
             "L. Akoglu", 
@@ -605,14 +764,22 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
         "Program Teams": [
             "Leidos (formerly SAIC)"
         ], 
+<<<<<<< HEAD
         "Title": "Classifier-Adjusted Density Estimation for Anomaly Detection and One-Class Classification", 
+=======
+        "Title": "Classifier-adjusted density estimation for anomaly detection and one-class classification", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             "L. Friedland", 
             "A. Gentzel", 
@@ -629,14 +796,22 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
         "Program Teams": [
             "Leidos (formerly SAIC)"
         ], 
+<<<<<<< HEAD
         "Title": "Copy or Coincidence? A Model for Detecting Social Influence and Duplication Events", 
+=======
+        "Title": "Copy or coincidence? A model for detecting social influence and duplication events", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             "L. Friedland", 
             "D. Jensen"
@@ -652,7 +827,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -676,14 +855,22 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
         "Program Teams": [
             "Leidos (formerly SAIC)"
         ], 
+<<<<<<< HEAD
         "Title": "Load Balanced Clustering Coefficients", 
+=======
+        "Title": "Load balanced clustering coefficients", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             "O. Green", 
             "L. M. Mungua", 
@@ -700,7 +887,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -723,7 +914,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -735,7 +930,11 @@
             "O. Green", 
             "D.A. Bader"
         ], 
+<<<<<<< HEAD
         "Link": "Not Yet Published", 
+=======
+        "Link": "", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Categories": [
             ""
         ], 
@@ -746,7 +945,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140909"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -769,7 +972,34 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "ADAMS", 
+        "Program Teams": [
+            "Leidos (formerly SAIC)"
+        ], 
+        "Title": "A Fast Algorithm for Streaming Betweenness Centrality", 
+        "Authors": [
+            "O. Green", 
+            "D.A. Bader"
+        ], 
+        "Link": "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6406265&tag=1", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -793,7 +1023,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -818,14 +1052,22 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
         "Program Teams": [
             "Leidos (formerly SAIC)"
         ], 
+<<<<<<< HEAD
         "Title": "VoG: Summarizing and Understanding Large Graphs", 
+=======
+        "Title": "VOG: Summarizing and Understanding Large Graphs", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             "D. Koutra", 
             "U. Kang", 
@@ -843,7 +1085,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -867,14 +1113,22 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
         "Program Teams": [
             "Leidos (formerly SAIC)"
         ], 
+<<<<<<< HEAD
         "Title": "Patterns amongst Competing Task Frequencies: Super-Linearities, and the Almond-DG Model", 
+=======
+        "Title": "Patterns among Competing Tasks Frequencies: Super-Linearities, and the Almond-DG Model", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             "D. Koutra", 
             "V. Koutras", 
@@ -892,7 +1146,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -916,14 +1174,47 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
     }, 
     {
         "DARPA Program": "ADAMS", 
         "Program Teams": [
             "Leidos (formerly SAIC)"
         ], 
+        "Title": "Fast anomaly detection despite the duplicates", 
+        "Authors": [
+            "J.-Y. Lee", 
+            "U. Kang", 
+            "D. Koutra", 
+            "C. Faloutsos"
+        ], 
+        "Link": "http://reports-archive.adm.cs.cmu.edu/anon/2012/CMU-CS-12-146.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
+    }, 
+    {
+        "DARPA Program": "ADAMS", 
+        "Program Teams": [
+            "Leidos (formerly SAIC)"
+        ], 
+<<<<<<< HEAD
         "Title": "Fast Outlier Detection Despite the Duplicates", 
+=======
+        "Title": "Fast outlier detection despite the duplicates", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             "J.-Y. Lee", 
             "U. Kang", 
@@ -941,7 +1232,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -968,7 +1263,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -995,7 +1294,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -1018,7 +1321,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -1041,7 +1348,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -1054,7 +1365,11 @@
             "D. H. Chau", 
             "U. Kang"
         ], 
+<<<<<<< HEAD
         "Link": "Not Yet Published", 
+=======
+        "Link": "", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Categories": [
             ""
         ], 
@@ -1065,20 +1380,32 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140909"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
         "Program Teams": [
             "Leidos (formerly SAIC)"
         ], 
+<<<<<<< HEAD
         "Title": "Using Blocking to Learn Causal Relational Models in the Presence of Latent Variables", 
+=======
+        "Title": "Using blocking to learn causal relational models in the presence of latent variables", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             "M. Maier", 
             "K. Marazopoulou", 
             "D. Jensen"
         ], 
+<<<<<<< HEAD
         "Link": "Not Yet Published", 
+=======
+        "Link": "", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Categories": [
             ""
         ], 
@@ -1089,14 +1416,22 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140909"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
         "Program Teams": [
             "Leidos (formerly SAIC)"
         ], 
+<<<<<<< HEAD
         "Title": "A Sound and Complete Algorithm for Learning Causal Models from Relational Data", 
+=======
+        "Title": "A sound and complete algorithm for learning causal models from relational data", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             "M. Maier", 
             "D. Marazopoulou", 
@@ -1113,7 +1448,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -1137,14 +1476,22 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
         "Program Teams": [
             "Leidos (formerly SAIC)"
         ], 
+<<<<<<< HEAD
         "Title": "Layered Behavioral Trace Modeling for Threat Detection", 
+=======
+        "Title": "Layered behavioral trace modeling for threat detection", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             "R. Mappus", 
             "E. Briscoe"
@@ -1160,7 +1507,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -1184,7 +1535,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -1208,7 +1563,35 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "ADAMS", 
+        "Program Teams": [
+            "Leidos (formerly SAIC)"
+        ], 
+        "Title": "Do more Views of a Graph help? Community Detection and Clustering in Multi-Graphs", 
+        "Authors": [
+            "E.E. Papalexakis", 
+            "L. Akoglu", 
+            "D. Ienco"
+        ], 
+        "Link": "http://www.cs.cmu.edu/~epapalex/papers/fusion2013.pdf", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -1230,7 +1613,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -1254,7 +1641,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -1282,7 +1673,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -1309,7 +1704,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -1336,14 +1735,22 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
         "Program Teams": [
             "Leidos (formerly SAIC)"
         ], 
+<<<<<<< HEAD
         "Title": "Guiding Scientific Discovery with Explanations Using DEMUD", 
+=======
+        "Title": "Guiding Scientific Discovery with Explanations from DEMUD", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             "K.L. Wagstaff", 
             "N.L. Lanza", 
@@ -1362,7 +1769,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -1388,7 +1799,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -1402,7 +1817,11 @@
             "H.G. Goldberg", 
             "T. Senator"
         ], 
+<<<<<<< HEAD
         "Link": "http://www.ieee-security.org/TC/SPW2014/papers/5103a277.PDF", 
+=======
+        "Link": "", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Categories": [
             ""
         ], 
@@ -1413,7 +1832,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140909"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -1425,7 +1848,11 @@
             "A. Zakrzewska", 
             "D.A. Bader"
         ], 
+<<<<<<< HEAD
         "Link": "http://link.springer.com/chapter/10.1007/978-3-642-55224-3_73", 
+=======
+        "Link": "", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Categories": [
             ""
         ], 
@@ -1436,14 +1863,22 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140909"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
         "Program Teams": [
             "IBM"
         ], 
+<<<<<<< HEAD
         "Title": "Non-negative Residual Matrix Factorization: Problem Definition, Fast Solutions, and Applications", 
+=======
+        "Title": "Non-negative residual matrix factorization: problem definition, fast solutions, and applications", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             "Hanghang Tong", 
             "Ching-Yung Lin"
@@ -1459,7 +1894,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -1484,14 +1923,22 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
         "Program Teams": [
             "IBM"
         ], 
+<<<<<<< HEAD
         "Title": "Fast and Reliable Anomaly Detection in Categorical Data", 
+=======
+        "Title": "Fast and reliable anomaly detection in categorical data", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             "Leman Akoglu", 
             "Hanghang Tong", 
@@ -1509,7 +1956,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -1534,7 +1985,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -1559,14 +2014,22 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
         "Program Teams": [
             "IBM"
         ], 
+<<<<<<< HEAD
         "Title": "Generating Balanced Classifier-independent Training Samples from Unlabeled Data", 
+=======
+        "Title": "Generating balanced classifier-independent training samples from unlabeled data", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             "Youngja Park", 
             "Z Qi", 
@@ -1584,7 +2047,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -1609,7 +2076,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -1633,7 +2104,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -1657,7 +2132,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -1680,7 +2159,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -1703,7 +2186,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -1726,7 +2213,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -1749,7 +2240,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -1773,7 +2268,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -1798,7 +2297,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -1825,7 +2328,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -1851,7 +2358,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -1874,7 +2385,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -1900,7 +2415,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -1925,7 +2444,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -1950,7 +2473,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -1975,14 +2502,22 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
         "Program Teams": [
             "University of Maryland"
         ], 
+<<<<<<< HEAD
         "Title": "Discovering the Top-k Unexplained Sequences in Time-Stamped Observation Data", 
+=======
+        "Title": "Discovering the Top-K Unexplained Sequences in Time-Stamped Observation Data", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             "M. Albanese", 
             "C. Molinaro", 
@@ -2001,7 +2536,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -2014,7 +2553,11 @@
             "N. Park", 
             "V.S. Subrahmanian"
         ], 
+<<<<<<< HEAD
         "Link": "Not Yet Published", 
+=======
+        "Link": "http://www.cs.umd.edu/~npark/lab_papers/smac-v1.pdf", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Categories": [
             ""
         ], 
@@ -2025,14 +2568,22 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140909"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
         "Program Teams": [
             "University of Maryland"
         ], 
+<<<<<<< HEAD
         "Title": "PADUA: Parallel Architecture to Detect Unexplained Activities", 
+=======
+        "Title": "PADUA: A Parallel Architecture to Detect Unexplained Activities", 
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
         "Authors": [
             "V. Moscato Molinaro", 
             "A. Picariello", 
@@ -2051,7 +2602,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -2078,7 +2633,11 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
+=======
+        "Update Date": "2014-06-20"
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
     }, 
     {
         "DARPA Program": "ADAMS", 
@@ -2103,6 +2662,40 @@
             ""
         ], 
         "New Date": "", 
+<<<<<<< HEAD
         "Update Date": "20140620"
     }
 ]
+=======
+        "Update Date": "2014-06-20"
+    }, 
+    {
+        "DARPA Program": "ADAMS", 
+        "Program Teams": [
+            "University of Maryland"
+        ], 
+        "Title": "Characterizing User Behavior and Information Propagation on a Social Multimedia Network", 
+        "Authors": [
+            "Francis T. O'Donovan", 
+            "Connie Fournelle", 
+            "Steve Gaffigan", 
+            "Oliver Brdiczka", 
+            "Jianqiang Shen", 
+            "Juan Liu", 
+            "Kendra E. Moore"
+        ], 
+        "Link": "http://arxiv.org/ftp/arxiv/papers/1305/1305.2091.pdf.", 
+        "Categories": [
+            ""
+        ], 
+        "Subcategories": [
+            ""
+        ], 
+        "ACM 1998 classification code": [
+            ""
+        ], 
+        "New Date": "", 
+        "Update Date": "2014-06-20"
+    }
+]
+>>>>>>> e8d01729a1c8d714a56085c6d501fa7c37af4d9e
